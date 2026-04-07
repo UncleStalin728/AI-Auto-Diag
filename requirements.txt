@@ -1,0 +1,32 @@
+# Core
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+pydantic-settings==2.7.1
+python-dotenv==1.0.1
+
+# Claude API
+anthropic==0.43.0
+
+# RAG Pipeline
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-text-splitters==0.3.4
+chromadb==0.6.3
+sentence-transformers==3.3.1
+
+# PDF Processing
+pymupdf==1.25.3
+pdfplumber==0.11.4
+
+# UI
+streamlit==1.41.1
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.25.0
+httpx==0.28.1
+
+# Utilities
+python-multipart==0.0.20
+aiofiles==24.1.0
