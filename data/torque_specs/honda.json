@@ -1,0 +1,3064 @@
+{
+  "specs": [
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center, work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - replace with new bolts every time. Verify with OEM service manual for this specific application.",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 16,
+      "torque_nm": 22,
+      "torque_sequence": "Center to outer bolts in specified pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Torque in two passes: first to 50%, then to final spec",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 33,
+      "torque_nm": 44,
+      "torque_sequence": "Center to outer in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Use anti-seize to prevent galling. Check for warpage before installation.",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Criss-cross pattern starting from center",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - aluminum oil pan threads strip easily",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Inside bolts first, then outer bolts in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace gasket and grommets. Do not overtighten to prevent gasket distortion.",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten center caps first, then outer caps",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new bolts. Verify bearing clearances before final assembly.",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Both bolts equally in multiple passes",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new bolts. Check bearing clearances before assembly.",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 13,
+      "torque_nm": 18,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize on threads (small amount)",
+      "notes": "Gap to 0.028-0.031 inches. Do not overtighten - aluminum head.",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 54,
+      "torque_nm": 74,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Medium strength threadlocker",
+      "notes": "Use flywheel holding tool. Apply threadlocker to prevent loosening.",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Various bolt lengths - check service manual for locations",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt lengths used - ensure correct bolt placement per service manual",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Star pattern in two passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50 miles of driving",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Tighten both bolts evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Medium strength threadlocker",
+      "notes": "Critical safety component - use threadlocker and verify torque",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "High-temperature brake grease on pin",
+      "notes": "Clean and lubricate pin with brake grease before installation",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always use new copper washers. Do not overtighten to prevent hose damage.",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 40,
+      "torque_nm": 54,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure proper ball joint seating before tightening",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 40,
+      "torque_nm": 54,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new cotter pin. Do not back off to align cotter pin hole.",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten with vehicle at normal ride height",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 33,
+      "torque_nm": 44,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut rod with hex tool while tightening nut",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 29,
+      "torque_nm": 39,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball stud with hex tool while tightening",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Medium strength threadlocker",
+      "notes": "Use threadlocker on bolts. Critical safety component.",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 242,
+      "torque_nm": 328,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut. Stake nut collar into axle groove after tightening.",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Criss-cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "CVT transmission - do not overtighten aluminum pan bolts",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 36,
+      "torque_nm": 49,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace crush washer with each service",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 64,
+      "torque_nm": 88,
+      "torque_sequence": "Opposite bolts in pairs",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Medium strength threadlocker",
+      "notes": "FWD vehicle - specification for intermediate shaft if equipped",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Various bolt lengths used - ensure proper bolt placement per service manual",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 30,
+      "torque_nm": 40,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace crush washer with each oil change. Do not overtighten aluminum oil pan.",
+      "vehicle": "2016-2024 Honda Civic 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center and work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 29,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 51,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 72,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 4,
+          "value": 130,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - replace with new bolts. Final angle torque critical for proper clamping force.",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 16,
+      "torque_nm": 22,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use aluminum-safe thread locker if specified in service manual",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 33,
+      "torque_nm": 44,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Apply anti-seize to prevent seizure from heat cycling",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 30,
+      "torque_nm": 40,
+      "torque_sequence": "Criss-cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - aluminum oil pan threads strip easily",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Start from center and work outward in spiral",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque specification - use torque wrench, do not overtighten",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten in numerical order 1-5, center to ends",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads and under bolt head",
+      "notes": "TTY bolts - replace with new. Critical for crankshaft alignment and bearing life.",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten each rod cap evenly",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new. Critical for bearing clearances.",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 13,
+      "torque_nm": 18,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Do not overtighten - aluminum head threads. Use thin coat of anti-seize.",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 54,
+      "torque_nm": 74,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Medium strength thread locker",
+      "notes": "Use flywheel holding tool. Apply thread locker to prevent loosening.",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Various bolt lengths - ensure correct bolt placement",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Star pattern in 2-3 stages",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50-100 miles. Check for proper wheel seating.",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 101,
+      "torque_nm": 137,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Medium strength thread locker",
+      "notes": "Critical safety component - use proper torque wrench and thread locker",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Silicone brake grease on slider portion only",
+      "notes": "Clean and lubricate slide pins with proper brake grease",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace crush washers with new. Do not overtighten.",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 40,
+      "torque_nm": 54,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure ball joint stud is properly seated before tightening",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 40,
+      "torque_nm": 54,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. Do not back off to align cotter pin hole.",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten with vehicle at normal ride height for proper bushing alignment",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 33,
+      "torque_nm": 44,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut shaft while tightening. Use strut shaft holding tool.",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 29,
+      "torque_nm": 39,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball stud with hex key while tightening nut",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Medium strength thread locker",
+      "notes": "Clean hub and bearing surfaces thoroughly before assembly",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 181,
+      "torque_nm": 245,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace with new nut. Stake nut collar after torquing. Very high torque - use proper tools.",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 10,
+      "torque_nm": 14,
+      "torque_sequence": "Criss-cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque - aluminum pan. Tighten evenly to prevent gasket distortion.",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 36,
+      "torque_nm": 49,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug washer/gasket with new",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 54,
+      "torque_nm": 74,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Medium strength thread locker",
+      "notes": "Verify with OEM service manual for this specific application - CV axle design may not use traditional driveshaft",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "Star pattern, multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Various bolt lengths - ensure proper bolt placement for each position",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 30,
+      "torque_nm": 40,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug washer with new. Do not overtighten aluminum oil pan.",
+      "vehicle": "2016-2024 Honda Civic 2.0L I4",
+      "year_range": [
+        2016,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "engine": "2.0L I4",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center, work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts must be replaced. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 16,
+      "torque_nm": 22,
+      "torque_sequence": "Center outward in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Torque in sequence to prevent warping",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 33,
+      "torque_nm": 45,
+      "torque_sequence": "Center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Use anti-seize to prevent galling from heat cycles",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 30,
+      "torque_nm": 40,
+      "torque_sequence": "Crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtorque to avoid pan warping",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Inside out, alternating pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque spec - do not overtighten to avoid gasket damage",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten all caps evenly in sequence",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace when removed. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten both bolts evenly",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 14,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M8x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - must replace. Critical engine bearing component.",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 13,
+      "torque_nm": 18,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize on threads",
+      "notes": "Do not overtorque - aluminum head can strip easily",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 54,
+      "torque_nm": 74,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Medium threadlocker",
+      "notes": "Use threadlocker to prevent loosening from vibration",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Bottom up, alternating",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt lengths used - keep track of positions",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Star pattern in two stages",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50 miles when wheels are first installed",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 101,
+      "torque_nm": 137,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Medium threadlocker",
+      "notes": "Critical safety component - use threadlocker and verify torque",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 20,
+      "torque_nm": 27,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Silicone brake grease on pin",
+      "notes": "Must slide freely - clean and lubricate pins during service",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace copper washers when disconnected",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Critical steering/suspension component - verify proper seating",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 40,
+      "torque_nm": 54,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin after torquing",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Torque with suspension at normal ride height",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 33,
+      "torque_nm": 44,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut shaft when tightening to prevent damage",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 29,
+      "torque_nm": 39,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - can damage bushings",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Medium threadlocker",
+      "notes": "Use threadlocker to prevent loosening",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 181,
+      "torque_nm": 245,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut - replace when removed. Stake after installation.",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 10,
+      "torque_nm": 14,
+      "torque_sequence": "Crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtorque - aluminum pan threads strip easily",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 36,
+      "torque_nm": 49,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace washer when servicing",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 54,
+      "torque_nm": 74,
+      "torque_sequence": "Opposite pairs",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Medium threadlocker",
+      "notes": "CVT model - verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "Star pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt lengths used - note positions during removal",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 30,
+      "torque_nm": 40,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace washer when servicing - aluminum oil pan",
+      "vehicle": "2018-2024 Honda Accord 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Honda",
+      "model": "Accord",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center, work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts must be replaced. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 16,
+      "torque_nm": 22,
+      "torque_sequence": "Center to outside pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 33,
+      "torque_nm": 45,
+      "torque_sequence": "Center to outside pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Anti-seize compound recommended",
+      "notes": "Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Criss-cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not over-tighten aluminum oil pan. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Inside to outside, alternating pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Center caps first, then outer caps",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Alternating between bolts on each rod",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 13,
+      "torque_nm": 18,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize on threads (small amount)",
+      "notes": "Do not over-tighten. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 54,
+      "torque_nm": 74,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Multiple sizes - follow pattern per manual",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "Various (M6-M10)",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt sizes used. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Star pattern in 2-3 stages",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Re-torque after 50-100 miles. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 101,
+      "torque_nm": 137,
+      "torque_sequence": "Alternating pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Critical safety component. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Caliper grease on pins",
+      "notes": "Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace crush washers. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 40,
+      "torque_nm": 54,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 40,
+      "torque_nm": 54,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new cotter pin. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten with vehicle at ride height. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 33,
+      "torque_nm": 45,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut shaft when tightening. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 29,
+      "torque_nm": 39,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 181,
+      "torque_nm": 245,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace with new nut. Use new cotter pin. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not over-tighten. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 36,
+      "torque_nm": 49,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace crush washer. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 24,
+      "torque_nm": 32,
+      "torque_sequence": "Opposite bolt pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "Star pattern, multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt lengths used. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 30,
+      "torque_nm": 41,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace crush washer. Do not over-tighten aluminum oil pan. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2024 Honda CR-V 1.5L I4 Turbo",
+      "year_range": [
+        2017,
+        2024
+      ],
+      "make": "Honda",
+      "model": "CR-V",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center bolts and work outward in a crisscross pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 29,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 51,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 72,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 4,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - must be replaced. Do not reuse. Verify with OEM service manual for this specific application.",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 16,
+      "torque_nm": 22,
+      "torque_sequence": "Start from center and work outward in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten in 2-3 passes to avoid warping manifold",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 23,
+      "torque_nm": 31,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Use anti-seize to prevent seizure due to heat cycling",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 29,
+      "torque_nm": 39,
+      "torque_sequence": "Crisscross pattern starting from center",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace gasket/sealant. Do not overtighten to avoid pan warpage",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Start from center and work outward in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace gasket. Tighten gradually to avoid distorting cover",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten center caps first, then outer caps",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads and under bolt head",
+      "notes": "TTY bolts - must be replaced. Verify with OEM service manual for this specific application.",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten both bolts evenly",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - must be replaced. Verify with OEM service manual for this specific application.",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 13,
+      "torque_nm": 18,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Do not overtighten. Hand tighten then 1/2 turn with wrench",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 54,
+      "torque_nm": 74,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads with thread locker",
+      "notes": "Use medium strength thread locker. Hold flywheel with holding tool",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Various bolt lengths - verify correct placement",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt lengths used - ensure correct bolt placement",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Star pattern in 2-3 passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50-100 miles. Check regularly",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 101,
+      "torque_nm": 137,
+      "torque_sequence": "Tighten evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads with thread locker",
+      "notes": "Use medium strength thread locker. Critical safety component",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "High temperature brake grease on pin",
+      "notes": "Clean and lubricate pin and boot. Verify smooth operation",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace copper washers. Do not overtighten to avoid cracking fitting",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 40,
+      "torque_nm": 54,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure proper seating of ball joint taper before tightening",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 40,
+      "torque_nm": 54,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. Do not back off to align cotter pin hole",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten with suspension at normal ride height for proper bushing alignment",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 22,
+      "torque_nm": 29,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut rod with hex bit while tightening nut",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 29,
+      "torque_nm": 39,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball stud with hex bit to prevent spinning",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads with thread locker",
+      "notes": "Use medium strength thread locker. Verify bearing races are properly seated",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 181,
+      "torque_nm": 245,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace nut each time removed. Stake nut collar after tightening",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Crisscross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace gasket or use RTV sealant as specified",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 36,
+      "torque_nm": 49,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace crush washer if equipped",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 24,
+      "torque_nm": 32,
+      "torque_sequence": "Opposite bolt pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads with thread locker",
+      "notes": "Use medium strength thread locker. Mark driveshaft position before removal",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "Star pattern starting from top center",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Various bolt lengths - ensure correct bolt placement. Verify with OEM service manual for this specific application.",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 29,
+      "torque_nm": 39,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace crush washer each oil change. Do not overtighten",
+      "vehicle": "2016-2023 Honda Pilot 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Honda",
+      "model": "Pilot",
+      "engine": "3.5L V6",
+      "verified": false
+    }
+  ]
+}

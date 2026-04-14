@@ -1,11 +1,21 @@
 """RAG pipeline: ingest PDFs, embed chunks, retrieve relevant context."""
 
-import chromadb
+import logging
 from pathlib import Path
+
+logger = logging.getLogger(__name__)
+
+try:
+    import chromadb
+    from app.ingestion.pdf_loader import extract_text_from_pdf
+    from app.ingestion.chunker import chunk_text
+    from app.ingestion.embedder import get_embedding_function
+    CHROMADB_AVAILABLE = True
+except ImportError:
+    CHROMADB_AVAILABLE = False
+    logger.warning("ChromaDB not installed — RAG pipeline disabled. Install with: pip install chromadb")
+
 from app.config import get_settings
-from app.ingestion.pdf_loader import extract_text_from_pdf
-from app.ingestion.chunker import chunk_text
-from app.ingestion.embedder import get_embedding_function
 
 
 class RAGPipeline:
@@ -112,8 +122,11 @@ class RAGPipeline:
 _pipeline: RAGPipeline | None = None
 
 
-def get_rag_pipeline() -> RAGPipeline:
+def get_rag_pipeline() -> RAGPipeline | None:
+    """Get the RAG pipeline singleton. Returns None if ChromaDB is not installed."""
     global _pipeline
+    if not CHROMADB_AVAILABLE:
+        return None
     if _pipeline is None:
         _pipeline = RAGPipeline()
     return _pipeline

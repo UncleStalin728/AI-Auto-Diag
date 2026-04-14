@@ -14,6 +14,10 @@ class Settings(BaseSettings):
     chroma_persist_dir: str = "./data/chroma_db"
     chroma_collection_name: str = "service_manuals"
 
+    # Auto-ingest
+    manuals_watch_dir: str = "./data/manuals"
+    auto_ingest_interval_seconds: int = 300  # 5 minutes
+
     # App
     app_host: str = "0.0.0.0"
     app_port: int = 8000

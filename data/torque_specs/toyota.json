@@ -1,0 +1,3669 @@
+{
+  "specs": [
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center, work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 27,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts must be replaced. Do not reuse. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 22,
+      "torque_nm": 30,
+      "torque_sequence": "Center outward in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten in two passes - 50% then final torque",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 27,
+      "torque_nm": 37,
+      "torque_sequence": "Center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Use anti-seize to prevent seizure from heat cycling",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 21,
+      "torque_sequence": "Cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - aluminum oil pan threads strip easily",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 21,
+      "torque_sequence": "Center outward in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace gasket and grommets. Do not overtighten",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Center caps first, then outer caps",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace during engine rebuild. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Both bolts evenly",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 18,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - must replace during rebuild. Check rod side clearance",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 13,
+      "torque_nm": 18,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize on threads",
+      "notes": "Do not overtighten - aluminum head threads. Gap to 0.043 inches",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 72,
+      "torque_nm": 98,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker (blue)",
+      "notes": "Use thread locker. Block flywheel during tightening",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 21,
+      "torque_sequence": "Various sizes - follow pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "Various",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt sizes used. Replace timing cover gasket",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 76,
+      "torque_nm": 103,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Final torque with vehicle on ground. Re-torque after 50 miles",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 79,
+      "torque_nm": 107,
+      "torque_sequence": "Both bolts evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker (blue)",
+      "notes": "Critical safety component - use thread locker",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Brake caliper grease on pin",
+      "notes": "Clean and lubricate slide pins with brake grease",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 22,
+      "torque_nm": 30,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace crush washers. Bleed brakes after installation",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 91,
+      "torque_nm": 123,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Safety critical - verify proper engagement before torquing",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 36,
+      "torque_nm": 49,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. Align for cotter pin hole if needed",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 148,
+      "torque_nm": 200,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Torque with suspension at ride height. Very high torque specification",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut rod while tightening nut",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 55,
+      "torque_nm": 75,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball stud with hex key while tightening nut",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 83,
+      "torque_nm": 113,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker (blue)",
+      "notes": "Use thread locker on hub bolts. Critical for wheel bearing retention",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 159,
+      "torque_nm": 216,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M20x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut - replace with new. Stake nut after torquing",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 14,
+      "torque_nm": 19,
+      "torque_sequence": "Cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - aluminum threads. Replace pan gasket",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 36,
+      "torque_nm": 49,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace crush washer if equipped",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 0,
+      "torque_nm": 0,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "",
+      "lubrication": "",
+      "notes": "N/A - FWD vehicle has no driveshaft",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple lengths used - note position during removal",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 30,
+      "torque_nm": 40,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace crush washer at each oil change",
+      "vehicle": "2018-2024 Toyota Camry 2.5L I4",
+      "year_range": [
+        2018,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Camry",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center and work outward in a spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 27,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - must replace with new bolts. Do not reuse. Final torque after angle tightening is approximately 90-100 ft-lbs.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 21,
+      "torque_sequence": "Start from center and work outward in a crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten in 2-3 steps to final torque value",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 22,
+      "torque_nm": 30,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Anti-seize compound recommended",
+      "notes": "Use anti-seize on threads to prevent seizure from heat cycling",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 21,
+      "torque_sequence": "Start from center and work outward in a crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "Do not overtighten to avoid oil pan distortion. Replace gasket/sealant as needed.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 21,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure valve cover gasket is properly seated before tightening",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten caps in numerical order, both bolts per cap equally",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 45,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.75",
+      "lubrication": "Light engine oil on threads and under bolt head",
+      "notes": "TTY bolts - must replace with new bolts. Do not reuse. Verify with OEM service manual for this specific application.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten both bolts equally and simultaneously",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 18,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - must replace with new bolts. Do not reuse. Verify with OEM service manual for this specific application.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Do not overtighten. Thread carefully by hand first to avoid cross-threading.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 61,
+      "torque_nm": 83,
+      "torque_sequence": "Tighten in a star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locking compound (medium strength)",
+      "notes": "Use thread locking compound. Hold flywheel/flexplate from rotating during tightening.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 21,
+      "torque_sequence": "Tighten evenly in a crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Different bolt lengths used in different positions - note location during removal",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 83,
+      "torque_nm": 113,
+      "torque_sequence": "Tighten in a star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50-100 miles. Check periodically.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 77,
+      "torque_nm": 104,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locking compound (medium strength)",
+      "notes": "Use thread locking compound. Critical safety component - verify torque specification.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Brake caliper grease on slide pin",
+      "notes": "Clean and lubricate slide pin with proper brake grease before installation",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 22,
+      "torque_nm": 30,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always use new sealing washers. Do not overtighten to avoid cracking the fitting.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 103,
+      "torque_nm": 140,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure ball joint taper is properly seated before tightening. Critical safety component.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 67,
+      "torque_nm": 91,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. If slots don't align, tighten further (do not loosen) to align with next slot.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 103,
+      "torque_nm": 140,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten with vehicle at normal ride height or bushings will bind. Critical suspension component.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 41,
+      "torque_nm": 56,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut shaft from rotating while tightening nut. Use appropriate strut shaft holding tool.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 51,
+      "torque_nm": 69,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball stud from rotating while tightening nut",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 83,
+      "torque_nm": 113,
+      "torque_sequence": "Tighten in a crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locking compound (medium strength)",
+      "notes": "Use thread locking compound. Critical safety component - verify torque specification.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 174,
+      "torque_nm": 235,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Single-use nut - replace with new. Install new cotter pin. Very high torque - use proper tools.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 69,
+      "torque_nm": 93,
+      "torque_sequence": "Start from center and work outward in a crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Inch specification - use inch-pound torque wrench. Replace gasket or use proper RTV sealant.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 36,
+      "torque_nm": 49,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace crush washer/gasket with each service. Do not overtighten.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 65,
+      "torque_nm": 88,
+      "torque_sequence": "Tighten opposite bolts in pairs",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locking compound (medium strength)",
+      "notes": "Use thread locking compound. Mark driveshaft position before removal for proper balance.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 53,
+      "torque_nm": 72,
+      "torque_sequence": "Tighten in a star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locking compound (medium strength)",
+      "notes": "Different bolt lengths used in different positions - note location during removal",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 30,
+      "torque_nm": 40,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Light oil film on gasket",
+      "notes": "Replace crush washer with each oil change. Hand tighten until gasket contacts pan, then additional 3/4 turn.",
+      "vehicle": "2016-2023 Toyota Tacoma 3.5L V6",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Toyota",
+      "model": "Tacoma",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center and work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 27,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "TTY bolts - replace with new bolts. Final torque is 27 ft-lbs + 180 degrees total. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 19,
+      "torque_nm": 26,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry",
+      "notes": "Tighten in two passes, first to 50% torque then final torque. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 33,
+      "torque_nm": 45,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Anti-seize on threads",
+      "notes": "Check for warpage if removing. Use anti-seize to prevent seizure. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Diagonal pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Different torque for aluminum vs steel oil pan. This spec is for steel pan. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry",
+      "notes": "Do not overtighten - aluminum threads. Replace gasket. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten all caps in sequence, then angle torque",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 45,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.75",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new bolts. Check bearing clearances. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten both bolts evenly in stages",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 18,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new bolts. Check bearing clearances. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize on threads",
+      "notes": "Do not overtighten. Gap to 0.043 inches. Use anti-seize on threads. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 61,
+      "torque_nm": 83,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Threadlocker",
+      "notes": "Use medium strength threadlocker. Hold crankshaft from rotating. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Different length bolts in different positions. Note bolt locations during removal. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 97,
+      "torque_nm": 131,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Retorque after 50-100 miles. Check wheel mounting surface for corrosion. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 91,
+      "torque_nm": 123,
+      "torque_sequence": "Tighten evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Threadlocker",
+      "notes": "Use medium strength threadlocker. Critical safety component. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Brake grease on pins",
+      "notes": "Clean and lubricate slide pins with brake grease. Replace boots if damaged. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 22,
+      "torque_nm": 30,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry",
+      "notes": "Use new crush washers. Do not overtighten. Bleed brakes after installation. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 103,
+      "torque_nm": 140,
+      "torque_sequence": "Single bolt tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry",
+      "notes": "Critical safety component. Check ball joint condition before installation. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 67,
+      "torque_nm": 91,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Install new cotter pin. Align to nearest slot if needed. Check wheel alignment after replacement. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 148,
+      "torque_nm": 201,
+      "torque_sequence": "Tighten with vehicle at ride height",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M16x2.0",
+      "lubrication": "Clean and dry",
+      "notes": "Must torque at ride height or with suspension loaded. Critical safety component. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 22,
+      "torque_nm": 30,
+      "torque_sequence": "Hold strut shaft while tightening nut",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry",
+      "notes": "Use strut shaft holding tool. Replace strut mount if worn. Check wheel alignment. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 51,
+      "torque_nm": 69,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Threadlocker",
+      "notes": "Use medium strength threadlocker. Replace bushings if worn. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 77,
+      "torque_nm": 104,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Threadlocker",
+      "notes": "Use medium strength threadlocker. Critical safety component. Check hub runout. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 173,
+      "torque_nm": 235,
+      "torque_sequence": "Individual tightening with vehicle on ground",
+      "stages": [],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "TTY nut - replace with new nut. Torque with vehicle on ground. Stake nut after torquing. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 13,
+      "torque_nm": 18,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry",
+      "notes": "Do not overtighten - aluminum pan. Replace gasket or use RTV as specified. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 36,
+      "torque_nm": 49,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Replace crush washer or O-ring. Do not overtighten. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 54,
+      "torque_nm": 73,
+      "torque_sequence": "Tighten opposing bolts evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Threadlocker",
+      "notes": "Use medium strength threadlocker. Mark driveshaft position before removal. Balance critical. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 53,
+      "torque_nm": 72,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Threadlocker",
+      "notes": "Different length bolts in different positions. Note locations during removal. Use medium threadlocker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 30,
+      "torque_nm": 41,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Replace drain plug gasket each oil change. Do not overtighten aluminum oil pan. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2021 Toyota Tundra 5.7L V8",
+      "year_range": [
+        2014,
+        2021
+      ],
+      "make": "Toyota",
+      "model": "Tundra",
+      "engine": "5.7L V8",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center, work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 27,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - replace with new bolts. Remove in reverse order of installation.",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 22,
+      "torque_nm": 30,
+      "torque_sequence": "Center outward in specified pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten in two passes, half torque then full torque",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 27,
+      "torque_nm": 37,
+      "torque_sequence": "Center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Allow engine to cool before removal to prevent thread damage",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 21,
+      "torque_sequence": "Alternating pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - aluminum oil pan threads strip easily",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 21,
+      "torque_sequence": "Center outward in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new gasket. Tighten in three passes: 7, 11, then 15 ft-lbs",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten caps in numerical order",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new. Verify bearing clearances before final tightening",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Both bolts alternately",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 18,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new. Check bearing clearances first",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize on threads (small amount)",
+      "notes": "Gap to 0.028-0.031 inch. Do not overtighten - aluminum head",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 61,
+      "torque_nm": 83,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Use flywheel holding tool. Final tightening with engine at TDC",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 21,
+      "torque_sequence": "Alternating pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new gasket/sealant as specified. Different length bolts in different positions",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 76,
+      "torque_nm": 103,
+      "torque_sequence": "Star pattern in two stages",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50-100 miles. Check wheel bolt pattern",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 77,
+      "torque_nm": 105,
+      "torque_sequence": "Alternating tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Critical safety component - verify torque with calibrated wrench",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "High-temp brake grease on pin only",
+      "notes": "Clean and lubricate slide pins. Check boot condition",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 22,
+      "torque_nm": 30,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always use new copper washers. Bleed brakes after installation",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 91,
+      "torque_nm": 123,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Support suspension before removal. Check ball joint condition",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 36,
+      "torque_nm": 49,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Align cotter pin hole. Do not back off to align, only tighten further",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 152,
+      "torque_nm": 206,
+      "torque_sequence": "Tighten with suspension loaded",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Vehicle must be at ride height when torquing. Use proper support",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "Hold strut shaft when tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use strut rod holding tool. Check bearing plate condition",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 55,
+      "torque_nm": 75,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball joint stud to prevent spinning. Replace if boot is damaged",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 83,
+      "torque_nm": 113,
+      "torque_sequence": "Star pattern in stages",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Clean hub mating surface. Check bearing endplay after installation",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 159,
+      "torque_nm": 216,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M20x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut. Stake or cotter pin as specified",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 14,
+      "torque_nm": 19,
+      "torque_sequence": "Alternating pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new pan gasket. Do not overtighten - aluminum pan",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 36,
+      "torque_nm": 49,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean threads, new washer",
+      "notes": "Always use new drain plug washer. Inspect threads before installation",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 54,
+      "torque_nm": 73,
+      "torque_sequence": "Opposite bolt pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Mark driveshaft position before removal. Balance is critical",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 53,
+      "torque_nm": 72,
+      "torque_sequence": "Star pattern, multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Different length bolts in specific positions. Support transmission during installation",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 30,
+      "torque_nm": 41,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean threads, new washer",
+      "notes": "Always replace drain plug gasket. Inspect threads for damage",
+      "vehicle": "2019-2024 Toyota RAV4 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "RAV4",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center, work outward in spiral pattern. Tighten in 3 stages.",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 27,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts must be replaced. Do not reuse. Final torque is 27 ft-lbs + 180\u00b0 total rotation.",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Tighten from center outward in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure manifold gasket is properly seated before tightening",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 27,
+      "torque_nm": 37,
+      "torque_sequence": "Tighten from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Apply anti-seize to prevent seizure from heat cycling",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Tighten in cross pattern, alternating sides",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "Do not overtighten to avoid oil pan distortion",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 7,
+      "torque_nm": 10,
+      "torque_sequence": "Tighten from center outward in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque specification - do not overtighten to avoid gasket damage",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten all caps to stage 1, then stage 2, then stage 3",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 16,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - must replace. Critical engine component - verify with OEM service manual for this specific application",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten both bolts of each rod cap together",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 18,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - must replace. Critical for engine reliability",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Do not overtighten - aluminum head can strip easily",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 72,
+      "torque_nm": 98,
+      "torque_sequence": "Tighten in star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Use thread locker to prevent loosening from vibration",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Tighten in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Various bolt lengths - ensure correct bolt in correct location",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 76,
+      "torque_nm": 103,
+      "torque_sequence": "Tighten in star/cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50 miles of driving",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 79,
+      "torque_nm": 107,
+      "torque_sequence": "Tighten both bolts evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Critical safety component - use proper thread locker",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "High-temperature brake grease on slide surfaces only",
+      "notes": "Clean slide pin bore and apply proper brake grease",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 22,
+      "torque_nm": 30,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always replace crush washers/sealing washers when installing",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 91,
+      "torque_nm": 123,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure ball joint stud is fully seated before tightening",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 36,
+      "torque_nm": 49,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin after tightening. Do not back off to align cotter pin hole",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 101,
+      "torque_nm": 137,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten with vehicle at normal ride height or bushings will bind",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut rod with hex key while tightening nut",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 55,
+      "torque_nm": 74,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball stud with hex key while tightening nut",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 83,
+      "torque_nm": 113,
+      "torque_sequence": "Tighten in star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Clean hub and knuckle mating surfaces before assembly",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 159,
+      "torque_nm": 216,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M20x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut - must replace. Stake nut collar into CV shaft groove after tightening",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 7,
+      "torque_nm": 10,
+      "torque_sequence": "Tighten in cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque - aluminum pan distorts easily if overtightened",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 36,
+      "torque_nm": 49,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug gasket/washer when servicing",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 48,
+      "torque_nm": 65,
+      "torque_sequence": "Tighten opposite bolts in pairs",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Verify with OEM service manual for this specific application - FWD vehicle may not have traditional driveshaft",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "Tighten in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Various bolt lengths - ensure correct bolt placement",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 27,
+      "torque_nm": 37,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Light oil on gasket sealing surface",
+      "notes": "Replace drain plug gasket at each oil change. Do not overtighten aluminum oil pan",
+      "vehicle": "2019-2024 Toyota Corolla 1.8L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "engine": "1.8L I4",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center and work outward in a spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 30,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts must be replaced. Final torque is approximately 74 ft-lbs. Verify with OEM service manual for this specific application.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 19,
+      "torque_nm": 26,
+      "torque_sequence": "Tighten in two passes from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Apply thread locker if specified by manufacturer",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 36,
+      "torque_nm": 49,
+      "torque_sequence": "Tighten from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Use anti-seize to prevent seizure due to high temperatures",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Tighten in a crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Convert to inch-lbs: 80 in-lbs (6.7 ft-lbs). Do not overtighten to avoid oil pan damage.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 7,
+      "torque_nm": 10,
+      "torque_sequence": "Tighten from center outward in two passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten to avoid warping valve cover",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten in specified numerical order",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 45,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Final torque approximately 72 ft-lbs. Verify with OEM service manual for this specific application.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten both bolts evenly",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 18,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Final torque approximately 33 ft-lbs. Verify with OEM service manual for this specific application.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Tighten individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Use spark plug anti-seize. Do not overtighten as aluminum heads can be damaged.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 61,
+      "torque_nm": 83,
+      "torque_sequence": "Tighten in a star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Use medium-strength thread locker. Hold flywheel with appropriate holding tool.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 17,
+      "torque_nm": 23,
+      "torque_sequence": "Tighten in sequence from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use proper sealant on cover mating surface as specified",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 83,
+      "torque_nm": 112,
+      "torque_sequence": "Tighten in a star/crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50-100 miles of driving",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 91,
+      "torque_nm": 123,
+      "torque_sequence": "Tighten both bolts evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Critical safety component. Use thread locker if specified. Verify with OEM service manual for this specific application.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "Tighten individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "High-temperature brake grease on pin",
+      "notes": "Use proper brake caliper grease on slide pins for proper operation",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 22,
+      "torque_nm": 30,
+      "torque_sequence": "Tighten individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always use new copper washers/seals. Critical brake system component.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 91,
+      "torque_nm": 123,
+      "torque_sequence": "Tighten individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Critical steering/suspension component. Verify with OEM service manual for this specific application.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 67,
+      "torque_nm": 91,
+      "torque_sequence": "Tighten individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new cotter pin. May need to tighten to next cotter pin hole alignment.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 166,
+      "torque_nm": 225,
+      "torque_sequence": "Tighten with vehicle at ride height",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M16x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Must be torqued at normal ride height to prevent bushing damage. Verify with OEM service manual for this specific application.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Hold strut shaft while tightening nut",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use strut shaft holding tool to prevent damage to internal components",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 51,
+      "torque_nm": 69,
+      "torque_sequence": "Tighten individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball stud with hex wrench while tightening nut",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 83,
+      "torque_nm": 112,
+      "torque_sequence": "Tighten in star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Verify with OEM service manual for this specific application.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 174,
+      "torque_nm": 235,
+      "torque_sequence": "Tighten with wheels on ground or hub held",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new nut. Stake or use cotter pin as specified. Critical drivetrain component.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 5,
+      "torque_nm": 7,
+      "torque_sequence": "Tighten in crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque specification to avoid pan warpage. Use new gasket or RTV as specified.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 29,
+      "torque_nm": 39,
+      "torque_sequence": "Tighten individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new washer/gasket. Do not overtighten to avoid pan damage.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 54,
+      "torque_nm": 74,
+      "torque_sequence": "Tighten in crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Use medium-strength thread locker. Mark driveshaft position before removal.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 53,
+      "torque_nm": 72,
+      "torque_sequence": "Tighten in star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker compound",
+      "notes": "Use medium-strength thread locker. Different length bolts in specific positions.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 30,
+      "torque_nm": 40,
+      "torque_sequence": "Tighten individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new washer/gasket. Do not overtighten to avoid oil pan damage.",
+      "vehicle": "2010-2024 Toyota 4Runner 4.0L V6",
+      "year_range": [
+        2010,
+        2024
+      ],
+      "make": "Toyota",
+      "model": "4Runner",
+      "engine": "4.0L V6",
+      "verified": false
+    }
+  ]
+}

@@ -1,0 +1,1886 @@
+{
+  "specs": [
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center and work outward in a cross pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 25,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 40,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 40,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 4,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts must be replaced. Final stage is 90 degrees additional rotation. Verify with OEM service manual for this specific application.",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 105,
+      "torque_nm": 142,
+      "torque_sequence": "Tighten in sequence from center outward in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use proper tightening sequence per service manual",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Tighten from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Anti-seize compound",
+      "notes": "Apply anti-seize to prevent seizure from heat cycling",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 105,
+      "torque_nm": 142,
+      "torque_sequence": "Tighten in cross pattern starting from center",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Light engine oil on threads",
+      "notes": "Do not overtighten to avoid oil pan warpage. Use new gasket.",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 70,
+      "torque_nm": 95,
+      "torque_sequence": "Tighten in sequence from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten to avoid warping cover",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten in sequence per service manual",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 25,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Final stage is additional 90 degrees. Verify with OEM service manual for this specific application.",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten both bolts alternately",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Final stage is additional 90 degrees. Verify with OEM service manual for this specific application.",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 20,
+      "torque_nm": 27,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "14mm",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Do not overtighten. Use torque wrench for proper installation.",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 70,
+      "torque_nm": 95,
+      "torque_sequence": "Tighten in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locking compound",
+      "notes": "Use thread locker. Hold flywheel/flexplate when tightening.",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 250,
+      "torque_nm": 339,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "RTV sealant on bolt threads",
+      "notes": "Various bolt lengths - ensure proper bolt placement. Apply RTV to bolts entering water jacket.",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 130,
+      "torque_nm": 176,
+      "torque_sequence": "Tighten in star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always tighten in star pattern. Re-torque after 50 miles.",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 130,
+      "torque_nm": 176,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Critical safety component - verify torque specification with service manual",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "High temperature brake grease",
+      "notes": "Use only high temperature brake grease on slide pins",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 23,
+      "torque_nm": 31,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always use new copper washers. Bleed brakes after installation.",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 70,
+      "torque_nm": 95,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure ball joint stud is properly seated before tightening",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 45,
+      "torque_nm": 61,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. Align for cotter pin hole if needed.",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 150,
+      "torque_nm": 203,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M16x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Vehicle should be at ride height when final torquing. Verify with OEM service manual for this specific application.",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut rod to prevent spinning when tightening",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 75,
+      "torque_nm": 102,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten to avoid crushing bushings",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 120,
+      "torque_nm": 163,
+      "torque_sequence": "Tighten in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locking compound",
+      "notes": "Apply thread locker. Tighten in cross pattern.",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 185,
+      "torque_nm": 251,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M20x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin or stake nut as applicable",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 105,
+      "torque_nm": 142,
+      "torque_sequence": "Tighten in cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten to avoid pan warpage. Use new gasket.",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 14,
+      "torque_nm": 19,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new washer/gasket if equipped",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locking compound",
+      "notes": "Apply thread locker. Mark driveshaft position before removal.",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 30,
+      "torque_nm": 41,
+      "torque_sequence": "Tighten in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locking compound",
+      "notes": "Various bolt lengths - ensure proper bolt placement. Verify with OEM service manual for this specific application.",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new washer/gasket. Do not overtighten to avoid oil pan threads damage.",
+      "vehicle": "2013-2023 Dodge Ram 1500 5.7L V8 Hemi",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center and work outward in a crisscross pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 25,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 40,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 40,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 4,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - replace with new bolts. Final stage is additional 90 degrees from stage 3 position.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 105,
+      "torque_nm": 12,
+      "torque_sequence": "Start from center and work outward in a spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten in 2-3 passes to final specification",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Use anti-seize to prevent galling. Check for warpage if replacing.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 105,
+      "torque_nm": 12,
+      "torque_sequence": "Start from center and work outward in a crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "Do not overtighten. Replace gasket/RTV as needed.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 70,
+      "torque_nm": 8,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace rubber gasket. Do not overtighten to avoid gasket damage.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten caps in sequence: 2-3-1-4-5",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 25,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.75",
+      "lubrication": "Light engine oil on threads and bearing surfaces",
+      "notes": "TTY bolts - replace with new. Verify main bearing clearances before assembly.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten both bolts evenly",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new. Check rod bearing clearance before assembly.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 20,
+      "torque_nm": 27,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Do not overtighten. Use torque wrench for final tightening.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Star pattern in 2-3 passes",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 25,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 70,
+          "unit": "ft-lbs"
+        }
+      ],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locking compound",
+      "notes": "Use flywheel holding tool. Apply thread locker to bolts.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 105,
+      "torque_nm": 12,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace gasket/RTV sealant. Various bolt lengths - note positions during removal.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 130,
+      "torque_nm": 176,
+      "torque_sequence": "Star pattern in 2-3 passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50-100 miles. Check torque periodically.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 70,
+      "torque_nm": 95,
+      "torque_sequence": "Tighten evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locking compound",
+      "notes": "Apply thread locker. Critical safety component - verify torque.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Brake caliper grease on pin",
+      "notes": "Lubricate pins with brake grease. Check pin movement after installation.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace copper washers. Bleed brake system after installation.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 70,
+      "torque_nm": 95,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Critical steering component. Perform alignment after replacement.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 45,
+      "torque_nm": 61,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. Alignment required after replacement.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 160,
+      "torque_nm": 217,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M16x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten with vehicle at ride height. Alignment required after service.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use strut spring compressor. Hold strut rod when tightening.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 75,
+      "torque_nm": 102,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace if rubber bushings are damaged. Hold ball stud when tightening.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 120,
+      "torque_nm": 163,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locking compound",
+      "notes": "Apply thread locker. Critical safety component - verify torque.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 185,
+      "torque_nm": 251,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut. Stake or install new cotter pin as applicable.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 105,
+      "torque_nm": 12,
+      "torque_sequence": "Start from center and work outward in crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace gasket or RTV. Do not overtighten to avoid pan warpage.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 14,
+      "torque_nm": 19,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace sealing washer. Do not overtighten aluminum oil pan.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Opposite bolts in pairs",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Thread locking compound",
+      "notes": "Apply thread locker. Mark driveshaft position before removal.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 40,
+      "torque_nm": 54,
+      "torque_sequence": "Star pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locking compound",
+      "notes": "Various bolt lengths - note positions. Apply thread locker to bolts.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace sealing washer. Do not overtighten aluminum oil pan.",
+      "vehicle": "2013-2023 Dodge Ram 1500 3.6L V6 Pentastar",
+      "year_range": [
+        2013,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Ram 1500",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center and work outward in a spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 25,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 40,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 40,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 4,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts must be replaced. Never reuse. Final torque plus angle method required.",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 105,
+      "torque_nm": 142,
+      "torque_sequence": "Start from center and work outward in cross pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 50,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 105,
+          "unit": "ft-lbs"
+        }
+      ],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure intake manifold gaskets are properly seated before tightening",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Anti-seize compound recommended",
+      "notes": "Use anti-seize on threads to prevent seizure due to heat cycling",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 20,
+      "torque_nm": 27,
+      "torque_sequence": "Tighten in cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten as oil pan is aluminum and can crack",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 70,
+      "torque_nm": 95,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Convert to inch-lbs: 70 in-lbs. Do not overtighten to prevent gasket damage",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten caps in sequence 1-2-3-4-5 for each stage",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 35,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads and under bolt head",
+      "notes": "TTY bolts must be replaced. Critical engine component - verify with OEM service manual for this specific application",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten both bolts evenly in stages",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Ensure proper rod cap orientation before tightening",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 20,
+      "torque_nm": 27,
+      "torque_sequence": "Tighten each plug individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize on threads (avoid electrode area)",
+      "notes": "Do not overtighten. Thread spark plugs in by hand first to avoid cross-threading",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 70,
+      "torque_nm": 95,
+      "torque_sequence": "Tighten in star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Use proper flywheel holding tool to prevent crankshaft rotation during tightening",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 21,
+      "torque_nm": 28,
+      "torque_sequence": "Tighten from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Various bolt lengths used - ensure correct bolt placement during reassembly",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 110,
+      "torque_nm": 149,
+      "torque_sequence": "Tighten in star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always retorque after first 50 miles when installing new wheels",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 160,
+      "torque_nm": 217,
+      "torque_sequence": "Tighten both bolts evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Critical safety component. Verify with OEM service manual for this specific application",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "Tighten individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Brake caliper grease on pin and boot",
+      "notes": "Ensure slide pins move freely after installation and proper boot seating",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "Single bolt tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always replace copper washers/seals. Do not overtighten to prevent hose damage",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 70,
+      "torque_nm": 95,
+      "torque_sequence": "Single fastener",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure ball joint stud is properly seated in knuckle before tightening",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 63,
+      "torque_nm": 85,
+      "torque_sequence": "Single fastener",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin after tightening. May need to tighten slightly to align cotter pin hole",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 160,
+      "torque_nm": 217,
+      "torque_sequence": "Tighten with suspension at ride height",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M16x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Must be tightened at normal ride height to prevent bushing damage",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 45,
+      "torque_nm": 61,
+      "torque_sequence": "Hold strut shaft while tightening nut",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use proper strut shaft holding tool to prevent shaft rotation",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 17,
+      "torque_nm": 23,
+      "torque_sequence": "Tighten while holding ball stud",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten as this can damage the ball joint boot",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 95,
+      "torque_nm": 129,
+      "torque_sequence": "Tighten in star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Ensure hub is fully seated against knuckle before tightening bolts",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 129,
+      "torque_nm": 175,
+      "torque_sequence": "Single large nut",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M22x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut. Always replace with new nut. Stake or use cotter pin as specified",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 14,
+      "torque_nm": 19,
+      "torque_sequence": "Tighten in cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten. Pan is typically aluminum or thin steel and can distort easily",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 14,
+      "torque_nm": 19,
+      "torque_sequence": "Single drain plug",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug gasket/washer each time. Verify with OEM service manual for this specific application",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Tighten opposing bolts/straps evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Mark driveshaft position before removal to maintain balance",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 50,
+      "torque_nm": 68,
+      "torque_sequence": "Tighten in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Various bolt lengths used. Ensure proper bolt placement and thread engagement",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "Single drain plug",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug gasket each oil change. Do not overtighten aluminum oil pan",
+      "vehicle": "2015-2023 Dodge Charger 5.7L V8 Hemi",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Dodge",
+      "model": "Charger",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    }
+  ]
+}

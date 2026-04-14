@@ -1,0 +1,3054 @@
+{
+  "specs": [
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Center outward in spiral pattern, numbered sequence 1-10",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 72,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - replace with new bolts. Do not use impact tools. Verify with OEM service manual for this specific application.",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 13,
+      "torque_nm": 18,
+      "torque_sequence": "Center outward spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry",
+      "notes": "Tighten in two passes - 50% then final torque",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 27,
+      "torque_nm": 37,
+      "torque_sequence": "Center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Anti-seize compound",
+      "notes": "Apply anti-seize to prevent seizure in aluminum head",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Crisscross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "Do not overtighten - aluminum oil pan threads can strip easily",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 7,
+      "torque_nm": 10,
+      "torque_sequence": "Spiral pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry",
+      "notes": "Low torque specification - overtightening will distort cover and cause leaks",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Numbered sequence 1-10, tighten in stages",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 29,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new. Critical engine bearing preload specification. Verify with OEM service manual.",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Both bolts alternately in small increments",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 14,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new. Critical bearing specification. Verify with OEM service manual.",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Do not overtighten - aluminum head threads are fragile",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 65,
+      "torque_nm": 88,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Use crankshaft holder tool. Apply thread locker to prevent loosening",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Spiral pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry",
+      "notes": "Multiple bolt lengths used - ensure correct bolt placement",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Star pattern in two stages",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry",
+      "notes": "Retorque after 25 miles. Check regularly for proper torque",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 122,
+      "torque_nm": 165,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Critical safety component - verify torque with calibrated wrench",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Brake caliper grease on slide surfaces only",
+      "notes": "Clean slide pins and apply proper brake grease before assembly",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 13,
+      "torque_nm": 18,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry",
+      "notes": "Replace copper washers. Do not overtighten - will damage sealing washers",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 68,
+      "torque_nm": 92,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry",
+      "notes": "Critical suspension component - ensure proper seating before tightening",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Install new cotter pin. Do not back off to align cotter pin hole - only tighten further",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 101,
+      "torque_nm": 137,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Tighten with vehicle at normal ride height or use alignment tool",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 59,
+      "torque_nm": 80,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry",
+      "notes": "Use strut rod holding tool to prevent shaft rotation during tightening",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 32,
+      "torque_nm": 43,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry",
+      "notes": "Use hex key to hold ball stud while tightening nut",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 77,
+      "torque_nm": 104,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Apply thread locker to prevent loosening. Verify with OEM service manual for this specific application.",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 92,
+      "torque_nm": 125,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "One-time use nut - replace with new. Stake or install new cotter pin",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 7,
+      "torque_nm": 10,
+      "torque_sequence": "Crisscross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry",
+      "notes": "Low torque - overtightening will distort pan and cause leaks. Replace pan gasket.",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Replace drain plug gasket/washer each service",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 47,
+      "torque_nm": 64,
+      "torque_sequence": "Opposite bolt pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Apply thread locker. Mark driveshaft position before removal for reassembly balance. Verify with OEM service manual for this specific application.",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 51,
+      "torque_nm": 69,
+      "torque_sequence": "Star pattern in stages",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Multiple bolt lengths used - note position during removal. Verify with OEM service manual for this specific application.",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Replace drain plug gasket each oil change. Do not overtighten aluminum oil pan",
+      "vehicle": "2019-2024 Nissan Altima 2.5L I4",
+      "year_range": [
+        2019,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Altima",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center and work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 72,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts must be replaced. Do not reuse. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 19,
+      "torque_nm": 25,
+      "torque_sequence": "Tighten evenly from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 31,
+      "torque_nm": 42,
+      "torque_sequence": "Tighten from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Anti-seize compound recommended",
+      "notes": "Check for warpage. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 80,
+      "torque_nm": 9,
+      "torque_sequence": "Tighten evenly in crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean threads, new gasket required",
+      "notes": "Do not overtighten. Aluminum oil pan. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 84,
+      "torque_nm": 9.5,
+      "torque_sequence": "Tighten from center outward in sequence",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace valve cover gasket. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten all caps in sequence, then angle tighten",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 29,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace if removed. Check bearing clearances. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten each rod cap evenly",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 14,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace if removed. Check bearing clearances. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Hand thread, then tighten with torque wrench",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not cross-thread. Check gap before installation. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 65,
+      "torque_nm": 88,
+      "torque_sequence": "Tighten in star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Use thread locker. Hold flywheel during tightening. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 80,
+      "torque_nm": 9,
+      "torque_sequence": "Tighten evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Various lengths - ensure correct bolt placement. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 83,
+      "torque_nm": 113,
+      "torque_sequence": "Star pattern tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean threads",
+      "notes": "Retorque after 50-100 miles. Check wheel mounting surface is clean. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 122,
+      "torque_nm": 165,
+      "torque_sequence": "Tighten evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Thread locker compound",
+      "notes": "Critical safety component. Use thread locker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 20,
+      "torque_nm": 27,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "High-temp brake grease on pin",
+      "notes": "Clean and lubricate pin before installation. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 13,
+      "torque_nm": 17,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace banjo washers. Bleed brake system after installation. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 125,
+      "torque_nm": 170,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Critical safety component. Check for proper seating. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new cotter pin. Alignment required after replacement. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 101,
+      "torque_nm": 137,
+      "torque_sequence": "Tighten with vehicle at ride height",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Must tighten at normal ride height to prevent bushing damage. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 43,
+      "torque_nm": 59,
+      "torque_sequence": "Hold strut shaft when tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut shaft with hex key to prevent rotation. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 32,
+      "torque_nm": 44,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball stud to prevent spinning. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 77,
+      "torque_nm": 105,
+      "torque_sequence": "Star pattern tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Clean hub surface. Use thread locker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 92,
+      "torque_nm": 125,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY nut - replace when removed. Stake or use new cotter pin. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 80,
+      "torque_nm": 9,
+      "torque_sequence": "Tighten evenly in crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace gasket/filter. Do not overtighten. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Replace crush washer",
+      "notes": "Replace drain plug washer. Check for leaks after service. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Mark driveshaft position before removal. Use thread locker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 33,
+      "torque_nm": 45,
+      "torque_sequence": "Tighten evenly in star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Various bolt lengths - ensure correct placement. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Replace crush washer",
+      "notes": "Replace drain plug washer each oil change. Check for leaks. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Rogue 2.5L I4",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Rogue",
+      "engine": "2.5L I4",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center and work outward in a crisscross pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 72,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - replace with new bolts. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 13,
+      "torque_nm": 18,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten in two passes - first to 50% torque, then final torque. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 21,
+      "torque_nm": 29,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Check for warpage before installation. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Crisscross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten aluminum oil pan. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 7,
+      "torque_nm": 9,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque specification - use torque wrench. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten caps in sequence from center outward",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 29,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new bolts. Check bearing clearances. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten each rod bolt alternately",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new bolts. Check bearing clearances. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Hand tighten then final torque",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Do not overtighten. Thread by hand first. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 65,
+      "torque_nm": 88,
+      "torque_sequence": "Crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Use thread locker. Hold crankshaft during installation. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Different bolt lengths in different locations. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 98,
+      "torque_nm": 133,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 100 miles. Check wheel alignment after tire service. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 136,
+      "torque_nm": 185,
+      "torque_sequence": "Alternating pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Thread locker compound",
+      "notes": "Use thread locker. Critical safety component. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 32,
+      "torque_nm": 43,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "High temperature brake grease on slide surfaces",
+      "notes": "Lubricate slide pins with brake grease. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 13,
+      "torque_nm": 17,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace copper washers. Do not overtighten. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 38,
+      "torque_nm": 52,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Critical suspension component. Check ball joint condition. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 63,
+      "torque_nm": 85,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. Align wheel after service. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 101,
+      "torque_nm": 137,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten with vehicle at normal ride height. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 40,
+      "torque_nm": 54,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut shaft during tightening. Check strut mount condition. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - can damage rubber bushings. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 155,
+      "torque_nm": 210,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker compound",
+      "notes": "Use thread locker. Critical safety component. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 177,
+      "torque_nm": 240,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut. Install new cotter pin. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 7,
+      "torque_nm": 9,
+      "torque_sequence": "Crisscross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten aluminum pan. Replace gasket. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug gasket. Do not overtighten. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 65,
+      "torque_nm": 88,
+      "torque_sequence": "Crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker compound",
+      "notes": "Use thread locker. Mark driveshaft position before removal. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 29,
+      "torque_nm": 39,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Different bolt lengths in different positions. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug gasket. Do not overtighten aluminum oil pan. Verify with OEM service manual for this specific application.",
+      "vehicle": "2022-2024 Nissan Frontier 3.8L V6",
+      "year_range": [
+        2022,
+        2024
+      ],
+      "make": "Nissan",
+      "model": "Frontier",
+      "engine": "3.8L V6",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center and work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 72,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - must be replaced. Verify with OEM service manual for this specific application.",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 22,
+      "torque_nm": 30,
+      "torque_sequence": "Center outward in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten in specified sequence to prevent warping",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "Center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Anti-seize compound recommended",
+      "notes": "Apply anti-seize to prevent seizure from heat cycles",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 19,
+      "torque_nm": 26,
+      "torque_sequence": "Cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not over-tighten to prevent oil pan distortion",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 7,
+      "torque_nm": 9,
+      "torque_sequence": "Inside bolts first, then outside bolts",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque specification - do not over-tighten",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten all caps in sequence before final torque",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 33,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 60,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - must be replaced. Critical torque specification. Verify with OEM service manual for this specific application.",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten both bolts evenly",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 14,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - must be replaced. Critical specification for bearing clearance. Verify with OEM service manual for this specific application.",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Thread by hand first to prevent cross-threading. Use spark plug socket.",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 65,
+      "torque_nm": 88,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Use crankshaft holding tool. Apply thread locker as specified.",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt sizes may be used - verify each bolt specification",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 98,
+      "torque_nm": 133,
+      "torque_sequence": "Star pattern in two stages",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 25 miles of driving. Check periodically.",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 122,
+      "torque_nm": 165,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Critical safety component - verify torque specification",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 32,
+      "torque_nm": 43,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "High-temperature brake grease",
+      "notes": "Apply brake grease to slide pin surfaces for proper operation",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 13,
+      "torque_nm": 17,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace crush washers. Do not over-tighten.",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 41,
+      "torque_nm": 55,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure proper ball joint seating before final torque",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 63,
+      "torque_nm": 85,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. Do not back off to align cotter pin hole.",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 98,
+      "torque_nm": 133,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten with vehicle at normal ride height",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 58,
+      "torque_nm": 79,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut shaft while tightening nut",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 58,
+      "torque_nm": 79,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball joint stud while tightening",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 155,
+      "torque_nm": 210,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "Thread locker compound",
+      "notes": "Apply specified thread locker. Critical for wheel bearing preload.",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 101,
+      "torque_nm": 137,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut. Replace with new nut. Stake or cotter pin as required.",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new gasket or RTV sealant as specified",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug gasket/washer",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 65,
+      "torque_nm": 88,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Apply thread locker as specified. Mark driveshaft orientation before removal.",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 65,
+      "torque_nm": 88,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt lengths used - ensure proper bolt placement. Verify with OEM service manual for this specific application.",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug gasket/washer with each oil change",
+      "vehicle": "2016-2023 Nissan Titan 5.6L V8",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Titan",
+      "engine": "5.6L V8",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center and work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 72,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts must be replaced. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 13,
+      "torque_nm": 18,
+      "torque_sequence": "Tighten from center outward in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Torque in 2-3 increments to avoid warping",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 21,
+      "torque_nm": 28,
+      "torque_sequence": "Tighten from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Anti-seize compound recommended",
+      "notes": "Allow engine to cool before service. Apply anti-seize to prevent seizure.",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Tighten in crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten to avoid pan warpage or thread damage",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 7,
+      "torque_nm": 10,
+      "torque_sequence": "Tighten from center outward in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque specification - easy to strip threads",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten in sequence specified in service manual",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 29,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.75",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Critical engine component - verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten both bolts evenly",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M10x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Critical engine component - verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Do not overtighten. Thread into aluminum head.",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 65,
+      "torque_nm": 88,
+      "torque_sequence": "Tighten in star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Use thread locker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Tighten from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt sizes may be used - verify specific locations",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Tighten in star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50 miles of driving",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 122,
+      "torque_nm": 165,
+      "torque_sequence": "Tighten evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Thread locker compound",
+      "notes": "Critical safety component. Use thread locker.",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 32,
+      "torque_nm": 43,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "Brake caliper grease on pin",
+      "notes": "Lubricate pins with proper brake caliper grease",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 13,
+      "torque_nm": 18,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace crush washers. Do not overtighten.",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 59,
+      "torque_nm": 80,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Critical safety component. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 46,
+      "torque_nm": 62,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. May need to tighten further to align cotter pin hole.",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 98,
+      "torque_nm": 133,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten with vehicle at normal ride height. Critical safety component.",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 43,
+      "torque_nm": 59,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut rod with special tool to prevent spinning",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 58,
+      "torque_nm": 78,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball stud with hex wrench while tightening",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 65,
+      "torque_nm": 88,
+      "torque_sequence": "Tighten in star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Use thread locker. Critical safety component.",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 92,
+      "torque_nm": 125,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace nut each time removed. Stake or install cotter pin as specified.",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 8,
+      "torque_nm": 11,
+      "torque_sequence": "Tighten in crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque specification. Easy to strip threads in aluminum pan.",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug gasket/washer",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 58,
+      "torque_nm": 78,
+      "torque_sequence": "Tighten opposite bolts evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Use thread locker. Mark driveshaft position before removal.",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Tighten in star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt lengths used. Verify proper bolt placement.",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug washer/gasket each oil change",
+      "vehicle": "2017-2023 Nissan Pathfinder 3.5L V6",
+      "year_range": [
+        2017,
+        2023
+      ],
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "engine": "3.5L V6",
+      "verified": false
+    }
+  ]
+}

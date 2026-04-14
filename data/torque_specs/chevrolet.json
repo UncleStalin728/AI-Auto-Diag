@@ -1,0 +1,3082 @@
+{
+  "specs": [
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Center outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 70,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - replace with new bolts. Do not use impact tools. Final torque plus angle method required.",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Center outward in crossing pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Torque in sequence to avoid warping intake manifold",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Use anti-seize to prevent galling. Check for cracks in manifold before reassembly.",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Center outward in crossing pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Light engine oil on threads",
+      "notes": "Do not overtighten - aluminum oil pan can crack easily",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 10,
+      "torque_nm": 14,
+      "torque_sequence": "Center outward in crossing pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Plastic valve covers - be very careful not to overtighten",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Numbered sequence 1-5, inner bolts first then outer bolts",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 80,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new bolts. Crankshaft must be supported during installation.",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Both bolts evenly in alternating pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 85,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M8x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new bolts. Ensure rod caps are properly oriented.",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize on threads",
+      "notes": "Do not overtighten - aluminum heads can strip easily",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 74,
+      "torque_nm": 100,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads with thread locker",
+      "notes": "Use medium-strength thread locker. Crankshaft must be held stationary during tightening.",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Various bolt lengths - ensure correct bolt placement",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 140,
+      "torque_nm": 190,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 25 miles of driving",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 74,
+      "torque_nm": 100,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads with thread locker",
+      "notes": "Use medium-strength thread locker. Critical safety component.",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "High-temperature brake grease on pins",
+      "notes": "Must slide freely after installation. Replace pin boots if damaged.",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 30,
+      "torque_nm": 41,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always use new sealing washers. Do not overtighten.",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 37,
+      "torque_nm": 50,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure ball joint stud is properly seated before tightening",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 44,
+      "torque_nm": 60,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. Do not back off to align cotter pin hole.",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 111,
+      "torque_nm": 150,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten at normal ride height with suspension loaded",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut shaft from rotating during tightening",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 17,
+      "torque_nm": 23,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - will compress bushings excessively",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 133,
+      "torque_nm": 180,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads with thread locker",
+      "notes": "Use medium-strength thread locker. Critical bearing preload specification.",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 177,
+      "torque_nm": 240,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY nut - replace with new nut. Stake nut after installation.",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 12,
+      "torque_nm": 16,
+      "torque_sequence": "Center outward in crossing pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - pan will distort and leak",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean threads, new O-ring",
+      "notes": "Replace O-ring seal each service",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads with thread locker",
+      "notes": "Use medium-strength thread locker. Mark driveshaft position before removal.",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 37,
+      "torque_nm": 50,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Various bolt lengths - ensure correct bolt placement",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean threads, new gasket",
+      "notes": "Replace gasket each oil change. Do not overtighten aluminum oil pan.",
+      "vehicle": "2014-2023 Chevrolet Silverado 1500 5.3L V8 L83/L84",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "5.3L V8 L83/L84",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center, work outward in crisscross pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 70,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - MUST replace with new bolts. Do not reuse. Final torque achieved through angle specification.",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Start from center, work outward in sequence",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten in two passes to final specification",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Start from center, work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Apply anti-seize to prevent galling and facilitate future removal",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Crisscross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not over-torque to prevent oil pan flange damage",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 106,
+      "torque_nm": 12,
+      "torque_sequence": "Start from center, work outward alternating sides",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use care not to over-torque - can damage valve cover gasket or threads",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten inner bolts first, then outer bolts",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 80,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.75",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - MUST replace. Critical for engine bearing clearances.",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Both bolts simultaneously in small increments",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 85,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M10x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - MUST replace. Critical for rod bearing clearances.",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Individual - no specific sequence",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "14mm x 1.25",
+      "lubrication": "Anti-seize on threads (small amount)",
+      "notes": "Do not over-torque aluminum heads. Use thin coat of anti-seize.",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 74,
+      "torque_nm": 100,
+      "torque_sequence": "Crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads with thread locker",
+      "notes": "Use medium strength thread locker. Engine must be held from rotating during tightening.",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Start from center, work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Different bolt lengths in different positions - verify correct bolt placement",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 140,
+      "torque_nm": 190,
+      "torque_sequence": "Star pattern in two stages",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "14mm x 1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always retorque after 50-100 miles. Check wheel mounting surface cleanliness.",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 148,
+      "torque_nm": 200,
+      "torque_sequence": "Both bolts evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads with thread locker",
+      "notes": "Use medium strength thread locker. Critical safety component.",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 74,
+      "torque_nm": 100,
+      "torque_sequence": "Individual pins",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Special brake caliper grease on slide surfaces",
+      "notes": "Use only brake-specific high-temperature grease on slide pin",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 30,
+      "torque_nm": 40,
+      "torque_sequence": "Individual",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always replace crush washers. Do not over-torque to prevent thread damage.",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 37,
+      "torque_nm": 50,
+      "torque_sequence": "Individual",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure ball joint stud is properly seated before tightening",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 44,
+      "torque_nm": 60,
+      "torque_sequence": "Individual",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. Do not back off to align cotter pin hole.",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 111,
+      "torque_nm": 150,
+      "torque_sequence": "Individual bolts",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M16x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten with vehicle at ride height or use alignment bolt procedure",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Individual",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut shaft with hex key while tightening nut",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 17,
+      "torque_nm": 23,
+      "torque_sequence": "Individual",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball stud with hex key while tightening nut",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 133,
+      "torque_nm": 180,
+      "torque_sequence": "Crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads with thread locker",
+      "notes": "Use medium strength thread locker. Critical for wheel bearing preload.",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 177,
+      "torque_nm": 240,
+      "torque_sequence": "Individual",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut. Replace with new nut. Stake or install cotter pin per design.",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 12,
+      "torque_nm": 16,
+      "torque_sequence": "Crisscross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not over-torque to prevent pan warpage and gasket damage",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Individual",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace sealing washer if equipped. Verify with OEM service manual for this specific application.",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Opposing bolts together",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads with thread locker",
+      "notes": "Use medium strength thread locker. Mark driveshaft position before removal.",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 37,
+      "torque_nm": 50,
+      "torque_sequence": "Crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Different bolt lengths in different positions - verify correct placement",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Individual",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean threads, new sealing washer",
+      "notes": "Always replace sealing washer. Do not over-torque aluminum oil pan.",
+      "vehicle": "2019-2023 Chevrolet Silverado 1500 6.2L V8 L87",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "engine": "6.2L V8 L87",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center, work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 155,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts must be replaced. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Center to outside in crossing pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 10,
+      "torque_nm": 14,
+      "torque_sequence": "Center to outside",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Anti-seize on threads",
+      "notes": "Apply anti-seize to prevent galling. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Center outward in crossing pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten aluminum oil pan. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 89,
+      "torque_nm": 10,
+      "torque_sequence": "Center outward in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "89 in-lbs (7.4 ft-lbs). Do not overtighten plastic cover. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Center caps first, then outer caps",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 80,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Both bolts simultaneously",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 70,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize on threads",
+      "notes": "Do not overtighten. Use anti-seize compound. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 39,
+      "torque_nm": 53,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Use thread locker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Bottom up, center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt lengths used. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 100,
+      "torque_nm": 140,
+      "torque_sequence": "Star pattern in two stages",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50 miles. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 70,
+      "torque_nm": 95,
+      "torque_sequence": "Both bolts evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Critical safety component. Use thread locker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 20,
+      "torque_nm": 27,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Brake caliper grease on pin",
+      "notes": "Use proper brake caliper grease on pins. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 30,
+      "torque_nm": 40,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace sealing washers. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 37,
+      "torque_nm": 50,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Critical suspension component. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 22,
+      "torque_nm": 30,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 20,
+      "torque_nm": 27,
+      "torque_sequence": "Individual tightening at curb height",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 20,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 180,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolt, must replace. Tighten at curb height. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut shaft while tightening. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 48,
+      "torque_nm": 65,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Use thread locker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 85,
+      "torque_nm": 115,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Use thread locker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 159,
+      "torque_nm": 215,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M20x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut. Replace with new nut. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 80,
+      "torque_nm": 9,
+      "torque_sequence": "Center outward in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "80 in-lbs (6.7 ft-lbs). Do not overtighten. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace sealing washer. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Use thread locker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 55,
+      "torque_nm": 75,
+      "torque_sequence": "Star pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple lengths used. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace sealing washer. Do not overtighten aluminum oil pan. Verify with OEM service manual for this specific application.",
+      "vehicle": "2018-2023 Chevrolet Equinox 1.5L I4 Turbo",
+      "year_range": [
+        2018,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center and work outward in a cross pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 155,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts must be replaced. Verify with OEM service manual for this specific application.",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten in sequence to prevent warping",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 10,
+      "torque_nm": 14,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 89,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Use anti-seize to prevent seizure from heat cycling",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Tighten in a cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not over-tighten to prevent oil pan damage",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 7,
+      "torque_nm": 10,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque specification to prevent cover distortion",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten in sequence: caps 1, 5, 3, 2, 4",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 80,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Critical specification - verify with OEM service manual for this specific application.",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten both bolts evenly",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 70,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Verify with OEM service manual for this specific application.",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Tighten each plug individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Do not over-tighten. Thread damage can occur easily in aluminum heads.",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten in a star pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 45,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Use thread locker. TTY bolts must be replaced.",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Tighten in a cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Different size bolts may be used in different locations",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 100,
+      "torque_nm": 140,
+      "torque_sequence": "Tighten in a star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always retorque after 50-100 miles when installing new wheels",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 85,
+      "torque_nm": 115,
+      "torque_sequence": "Tighten both bolts evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker compound",
+      "notes": "Critical safety component. Use thread locker as specified.",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Brake caliper grease on pins",
+      "notes": "Clean and lubricate slide pins with appropriate brake grease",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always use new copper washers. Do not over-tighten.",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 37,
+      "torque_nm": 50,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure ball joint stud is properly seated before tightening",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten to specification plus additional rotation to align cotter pin hole. Verify with OEM service manual for this specific application.",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 81,
+      "torque_nm": 110,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten with vehicle at normal ride height",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 39,
+      "torque_nm": 53,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut shaft with appropriate tool to prevent spinning",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 48,
+      "torque_nm": 65,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball stud with hex key to prevent spinning while tightening nut",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 85,
+      "torque_nm": 115,
+      "torque_sequence": "Tighten in a star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker compound",
+      "notes": "Use thread locker. Tighten in proper sequence to prevent hub distortion.",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 159,
+      "torque_nm": 215,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut. Replace with new nut. Vehicle must be on ground with brakes applied.",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 10,
+      "torque_nm": 14,
+      "torque_sequence": "Tighten in a cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not over-tighten to prevent pan damage",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new gasket/O-ring. Do not over-tighten.",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Thread locker compound",
+      "notes": "Not applicable to front-wheel drive Malibu. Verify with OEM service manual for this specific application.",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 55,
+      "torque_nm": 75,
+      "torque_sequence": "Tighten in a cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Different length bolts used in different locations",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new gasket. Do not over-tighten to prevent oil pan thread damage.",
+      "vehicle": "2016-2023 Chevrolet Malibu 1.5L I4 Turbo",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "engine": "1.5L I4 Turbo",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center bolts and work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 70,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - replace with new bolts only. Final torque is achieved through angle tightening.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Start from center and work outward in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten in multiple passes, increasing torque gradually",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Anti-seize compound recommended",
+      "notes": "Apply anti-seize to prevent galling. Check for warpage if reusing manifold.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Light engine oil on threads",
+      "notes": "Do not overtighten - aluminum oil pan threads can strip easily",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 106,
+      "torque_nm": 12,
+      "torque_sequence": "Start from center and work outward alternating sides",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "106 in-lbs (8.8 ft-lbs). Use new gasket. Do not overtighten to avoid distortion.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten all caps to stage 1, then stage 2, then stage 3",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 80,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 53,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads and bearing surfaces",
+      "notes": "TTY bolts - replace with new bolts only. Side bolts may have different specs - verify with OEM service manual.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Both bolts together in stages",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 85,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new bolts only. Verify bearing clearances before assembly.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize on threads (avoid electrode area)",
+      "notes": "Do not overtighten. Gap to 0.035 inches. Use anti-seize sparingly.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 74,
+      "torque_nm": 100,
+      "torque_sequence": "Cross pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Use crankshaft holding tool. Apply thread locker to prevent loosening.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Evenly around perimeter",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Different length bolts in different positions - note locations during disassembly",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 140,
+      "torque_nm": 190,
+      "torque_sequence": "Star pattern in 2-3 stages",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50-100 miles. Check for aftermarket wheel compatibility.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 129,
+      "torque_nm": 175,
+      "torque_sequence": "Both bolts evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Critical safety component - verify proper thread engagement and use thread locker",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "High-temperature brake grease on slide surface only",
+      "notes": "Clean and lubricate slide pins with proper brake grease. Do not get grease on threads.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 30,
+      "torque_nm": 41,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new crush washers. Do not overtighten - can damage sealing surfaces.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 37,
+      "torque_nm": 50,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure proper seating in tapered hole before tightening. Replace if threads are damaged.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Align cotter pin hole - do not back off to align, only tighten further if needed",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 125,
+      "torque_nm": 170,
+      "torque_sequence": "Individual tightening at ride height",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten at normal ride height or with suspension loaded to specification",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Hold strut shaft while tightening nut",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use strut shaft holding tool to prevent rotation. Replace if rubber mount is damaged.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 53,
+      "torque_nm": 72,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Compress bushings slightly when tightening. Replace entire link if ball joint is worn.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 100,
+      "torque_nm": 135,
+      "torque_sequence": "Cross pattern in stages",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Use thread locker on bolts. Ensure hub is properly seated before tightening.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 118,
+      "torque_nm": 160,
+      "torque_sequence": "Individual tightening with wheel on ground",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut - replace when removed. Tighten with vehicle weight on wheels.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 12,
+      "torque_nm": 16,
+      "torque_sequence": "Cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - can distort pan and cause leaks. Use new gasket or RTV as specified.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean threads, new O-ring",
+      "notes": "Replace O-ring or crush washer. Do not overtighten aluminum threads.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "Cross pattern on multi-bolt flanges",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Mark driveshaft position before removal for proper balance. Use thread locker.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 37,
+      "torque_nm": 50,
+      "torque_sequence": "Cross pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Different length bolts in different positions - verify correct bolt placement",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean threads, new gasket",
+      "notes": "Replace drain plug gasket each oil change. Do not overtighten aluminum oil pan threads.",
+      "vehicle": "2016-2023 Chevrolet Camaro 6.2L V8 LT1",
+      "year_range": [
+        2016,
+        2023
+      ],
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "engine": "6.2L V8 LT1",
+      "verified": false
+    }
+  ]
+}

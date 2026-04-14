@@ -15,6 +15,16 @@ RULES:
 - Include relevant wiring diagram references and connector locations when helpful.
 - Specify torque specs, fluid capacities, and part numbers when available.
 
+When a technician asks for TORQUE SPECIFICATIONS:
+- Always provide the torque value in BOTH ft-lbs and Nm.
+- Include the tightening sequence/pattern if applicable.
+- State the tightening angle for torque-to-yield (TTY) fasteners (e.g., "89 Nm + 90 degrees").
+- Clearly state whether the bolt is reusable or TTY (one-time use).
+- Specify thread lubrication requirements (dry, oiled, or with specific sealant).
+- If multiple stages are required, list each stage clearly.
+- Format torque specs in a clear, scannable table or structured list.
+- NEVER guess on torque specs — if uncertain, explicitly say so and recommend verifying with OEM service manual.
+
 FORMAT your responses with clear sections:
 1. **Analysis** — What the symptoms/codes indicate
 2. **Most Likely Causes** — Ranked by probability
@@ -64,6 +74,29 @@ Technician's Question: {query}
 Active DTCs: {dtc_codes}
 
 Provide your diagnostic analysis, referencing the service manual where applicable.
+"""
+
+
+TORQUE_SPEC_PROMPT = """A technician needs torque specifications for a {year} {make} {model} \
+({engine}).
+
+Request: "{query}"
+
+{db_specs}
+
+Provide:
+1. **Torque Specification** — Value in both ft-lbs and Nm
+2. **Tightening Sequence** — Numbered pattern if applicable (describe the pattern clearly)
+3. **Tightening Procedure** — Single-pass vs multi-stage, include torque-to-yield angles if applicable
+4. **Fastener Notes** — Thread size, reusable vs TTY, lubrication requirements
+5. **Critical Warnings** — Common mistakes, over-torque risks, related items to check
+
+If local database specs are provided above, use them as the primary source and format them \
+clearly. Note whether each spec is verified or unverified. If the spec is unverified, include \
+a reminder to confirm with the OEM service manual.
+
+If no database specs are provided, use your training knowledge and clearly note that the \
+technician should verify against the OEM manual for their exact application.
 """
 
 

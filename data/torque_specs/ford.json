@@ -1,0 +1,5020 @@
+{
+  "specs": [
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center, work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 26,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 4,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 5,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - replace with new bolts. Final torque is 26 ft-lbs plus 270 degrees total rotation in 3 stages",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Center outward in two stages",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 89,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 18,
+          "unit": "ft-lbs"
+        }
+      ],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use aluminum-safe anti-seize on threads",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Center outward pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "High-temperature anti-seize compound",
+      "notes": "Use high-temp anti-seize to prevent seizure. Check for cracks before reuse",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - aluminum oil pan threads strip easily",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 8,
+      "torque_nm": 11,
+      "torque_sequence": "Inside out pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - can crush gasket or crack cover",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten caps in numerical order",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 26,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new. Check crankshaft end play after installation",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Both bolts evenly in stages",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 26,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new. Check rod bearing clearances before assembly",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 11,
+      "torque_nm": 15,
+      "torque_sequence": "Individual installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize on threads (sparingly)",
+      "notes": "Do not overtighten - can damage threads in aluminum head. Gap to 0.052-0.056 inch",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 59,
+      "torque_nm": 80,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Use medium strength thread locker. Hold flywheel/flexplate during tightening",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Various sizes - follow pattern per manual",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "Various",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt lengths and sizes used. Verify with OEM service manual for this specific application",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 150,
+      "torque_nm": 203,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50-100 miles. Check wheel alignment after tire service",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 148,
+      "torque_nm": 200,
+      "torque_sequence": "Both bolts evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Critical safety component - verify torque with calibrated wrench",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "Individual installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Brake caliper grease on pins",
+      "notes": "Clean pins and apply proper brake grease. Check pin movement after installation",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "Individual installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace copper washers. Bleed brake system after installation",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 41,
+      "torque_nm": 55,
+      "torque_sequence": "Individual installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure ball joint taper is properly seated before tightening",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 59,
+      "torque_nm": 80,
+      "torque_sequence": "Individual installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. Do not loosen to align cotter pin hole - only tighten further",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 184,
+      "torque_nm": 250,
+      "torque_sequence": "Individual installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M16x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten with vehicle at normal ride height or preload suspension",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "Individual installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut shaft from rotation while tightening nut",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Individual installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - can crush bushings",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 83,
+      "torque_nm": 112,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Use thread locker. Verify with OEM service manual for this specific application",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 184,
+      "torque_nm": 250,
+      "torque_sequence": "Individual installation",
+      "stages": [],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M22x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY nut - replace with new. Install new cotter pin",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 10,
+      "torque_nm": 14,
+      "torque_sequence": "Cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - can warp pan and cause leaks",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 19,
+      "torque_nm": 26,
+      "torque_sequence": "Individual installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace sealing washer if equipped",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "Cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Use thread locker. Mark driveshaft position before removal for proper balance",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Multiple bolt lengths used - verify correct bolt placement",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 20,
+      "torque_nm": 27,
+      "torque_sequence": "Individual installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M15x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug gasket each oil change. Do not overtighten",
+      "vehicle": "2015-2020 Ford F-150 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center and work outward in a cross pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 26,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 4,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - replace with new bolts only. Final torque achieved through angle tightening.",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten in multiple passes, gradually increasing torque",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Use anti-seize to prevent seizure due to heat cycling",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Start from center and work outward in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "Do not overtighten - aluminum oil pan can crack easily",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque specification - do not overtighten to avoid gasket damage",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Follow factory sequence pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 26,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads and bearing surfaces",
+      "notes": "TTY bolts - replace with new bolts only. Critical engine component.",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Both bolts simultaneously",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 17,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new bolts only. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 11,
+      "torque_nm": 15,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Light anti-seize on threads",
+      "notes": "Do not overtighten - aluminum heads can be damaged easily",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 59,
+      "torque_nm": 80,
+      "torque_sequence": "Cross pattern tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Medium strength threadlocker",
+      "notes": "Use threadlocker to prevent loosening from vibration",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Start from center and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt sizes may be used - verify length and torque for each position",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 150,
+      "torque_nm": 203,
+      "torque_sequence": "Star pattern tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50-100 miles when wheels are newly installed",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 148,
+      "torque_nm": 200,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Medium strength threadlocker",
+      "notes": "Critical safety component - use threadlocker and verify torque",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 74,
+      "torque_nm": 100,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Brake caliper grease on pins",
+      "notes": "Clean and lubricate slide pins with appropriate brake grease",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace copper washers with new ones when reassembling",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 41,
+      "torque_nm": 55,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure ball joint stud is properly seated before tightening",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 59,
+      "torque_nm": 80,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin after torquing - do not back off to align",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 148,
+      "torque_nm": 200,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Torque with vehicle at normal ride height and bushings loaded",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut rod with hex key while tightening nut",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 41,
+      "torque_nm": 55,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball stud with hex key while tightening nut",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 148,
+      "torque_nm": 200,
+      "torque_sequence": "Cross pattern tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Medium strength threadlocker",
+      "notes": "Clean hub surface and use threadlocker on bolts",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 184,
+      "torque_nm": 250,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M20x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Single use nut - replace with new nut. Stake nut after installation.",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Cross pattern tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque - aluminum pan can crack easily if overtightened",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 19,
+      "torque_nm": 26,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace crush washer with new one when reinstalling",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Medium strength threadlocker",
+      "notes": "Mark driveshaft position before removal for proper reassembly",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "Cross pattern tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Medium strength threadlocker",
+      "notes": "Multiple bolt lengths used - verify correct bolt in each location",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 20,
+      "torque_nm": 27,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug gasket with new one when reinstalling",
+      "vehicle": "2015-2020 Ford F-150 3.5L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "3.5L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center, work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 26,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 4,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 5,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - must replace with new bolts. Final torque achieved through angle tightening. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Start from center, work outward in crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten in two passes - first to 9 ft-lbs, then final torque. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Start from center, work outward alternating pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Use high-temperature anti-seize. Check for cracks before reuse. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Start from center, work outward in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new gasket. Do not over-torque aluminum oil pan. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Start from center, work outward alternating",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace valve cover gasket. Do not over-torque into aluminum heads. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten all caps to stage 1, then stage 2, then stage 3",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 37,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.75",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new. Engine must be cold. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten each rod cap in sequence",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 18,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M10x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new. Check rod side clearance after installation. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 11,
+      "torque_nm": 15,
+      "torque_sequence": "Tighten each plug individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize on threads (light coating)",
+      "notes": "Do not over-torque into aluminum heads. Gap to 0.028-0.031 inches. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten in star pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 37,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "TTY bolts - replace with new. Use flywheel holding tool. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Tighten in crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new timing cover gasket/sealant. Various bolt lengths - ensure correct placement. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 150,
+      "torque_nm": 203,
+      "torque_sequence": "Star/crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Final torque with vehicle on ground. Re-check after 50-100 miles. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 148,
+      "torque_nm": 200,
+      "torque_sequence": "Tighten both bolts evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Critical safety component. Clean threads thoroughly. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 74,
+      "torque_nm": 100,
+      "torque_sequence": "Tighten individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Brake caliper grease on slide pins",
+      "notes": "Replace slide pin boots if damaged. Ensure proper brake pad movement. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "Single bolt",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace copper washers. Do not over-torque. Bleed brakes after installation. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 41,
+      "torque_nm": 55,
+      "torque_sequence": "Single fastener",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure proper ball joint seating. Replace if threads are damaged. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 59,
+      "torque_nm": 80,
+      "torque_sequence": "Single fastener",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. May need to tighten slightly more to align cotter pin hole. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 148,
+      "torque_nm": 200,
+      "torque_sequence": "Tighten with suspension at ride height",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M16x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Must torque at normal ride height to prevent bushing bind. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "Hold strut shaft while tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use strut shaft holding tool. Replace strut mount if damaged. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 41,
+      "torque_nm": 55,
+      "torque_sequence": "Hold ball joint stud",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use hex key to hold ball joint stud. Replace if ball joint is worn. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 85,
+      "torque_nm": 115,
+      "torque_sequence": "Star pattern for multi-bolt hubs",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Clean hub mounting surface. Check wheel bearing for play before installation. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 184,
+      "torque_nm": 250,
+      "torque_sequence": "Single large nut",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M22x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut. Stake or use new cotter pin. Torque with brakes applied. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Start from center, work outward in spiral",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not over-torque aluminum pan. Use new gasket. Fill with correct ATF type. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 19,
+      "torque_nm": 26,
+      "torque_sequence": "Single plug",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean threads, new O-ring",
+      "notes": "Replace drain plug O-ring/gasket. Do not over-torque into aluminum case. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "Tighten opposing bolts alternately",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Mark driveshaft position before removal. Balance is critical. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "Star pattern, multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Various bolt lengths - ensure correct placement. Critical for engine/transmission alignment. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 21,
+      "torque_nm": 28,
+      "torque_sequence": "Single plug",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean threads, new gasket",
+      "notes": "Replace drain plug gasket. Do not over-torque into aluminum oil pan. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2020 Ford F-150 2.7L V6 EcoBoost",
+      "year_range": [
+        2015,
+        2020
+      ],
+      "make": "Ford",
+      "model": "F-150",
+      "engine": "2.7L V6 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center and work outward in a spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 26,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 4,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - replace with new bolts. Final torque is 26 ft-lbs + 180 degrees total. Verify sequence with Ford service manual.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Center outward in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Upper intake manifold. Lower manifold may have different specs.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Center outward pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Use high temperature anti-seize. Check for warpage before installation.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Crisscross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new gasket. Do not over-tighten aluminum oil pan.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 8,
+      "torque_nm": 11,
+      "torque_sequence": "Center outward in sequence",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace valve cover gaskets. Do not over-tighten.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Specific Ford sequence - consult service manual",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 44,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.75",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new. Critical bearing clearances must be verified.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Both bolts evenly in multiple passes",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 17,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new. Check bearing clearances.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 11,
+      "torque_nm": 15,
+      "torque_sequence": "Individual installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "14mm x 1.25",
+      "lubrication": "Anti-seize on threads",
+      "notes": "Hand start threads to avoid cross-threading aluminum heads.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 59,
+      "torque_nm": 80,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker compound",
+      "notes": "Use medium strength thread locker. Block flywheel during tightening.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Various sizes - follow Ford sequence",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "Various",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt sizes used. Replace timing cover gasket.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 150,
+      "torque_nm": 203,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50-100 miles. Check for proper wheel seating.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 148,
+      "torque_nm": 200,
+      "torque_sequence": "Evenly in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Thread locker compound",
+      "notes": "Use medium strength thread locker. Critical safety component.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 53,
+      "torque_nm": 72,
+      "torque_sequence": "Individual installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Brake caliper grease on pins",
+      "notes": "Clean and lubricate slide pins with proper brake grease.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "Single bolt installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace copper washers. Bleed brake system after installation.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 46,
+      "torque_nm": 63,
+      "torque_sequence": "Single fastener",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace if damaged. Check ball joint condition during service.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 59,
+      "torque_nm": 80,
+      "torque_sequence": "Individual installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new cotter pin. Align for cotter pin installation - do not back off.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 148,
+      "torque_nm": 200,
+      "torque_sequence": "Torque with suspension loaded",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M16x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Torque with vehicle at ride height or use loading fixture.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 46,
+      "torque_nm": 63,
+      "torque_sequence": "Single nut with shaft held",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut shaft while tightening. Replace strut mount if worn.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 41,
+      "torque_nm": 55,
+      "torque_sequence": "Individual installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball stud while tightening nut to prevent damage.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 98,
+      "torque_nm": 133,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker compound",
+      "notes": "Use medium strength thread locker. Clean hub mating surface.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 258,
+      "torque_nm": 350,
+      "torque_sequence": "Single large nut",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M30x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut. Stake or use new cotter pin per Ford procedure.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Crisscross pattern from center out",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace pan gasket or RTV as specified. Do not over-tighten.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 19,
+      "torque_nm": 26,
+      "torque_sequence": "Single plug installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean threads, new O-ring",
+      "notes": "Replace O-ring seal. Do not over-tighten aluminum transmission case.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "Cross pattern for U-joint straps",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Thread locker compound",
+      "notes": "Use medium strength thread locker. Mark driveshaft position before removal.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt lengths used. Verify correct bolt placement per Ford manual.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 20,
+      "torque_nm": 27,
+      "torque_sequence": "Single plug installation",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M15x1.5",
+      "lubrication": "Clean threads, replace O-ring",
+      "notes": "Replace O-ring seal each oil change. Do not over-tighten aluminum oil pan.",
+      "vehicle": "2016-2019 Ford Explorer 3.5L V6",
+      "year_range": [
+        2016,
+        2019
+      ],
+      "make": "Ford",
+      "model": "Explorer",
+      "engine": "3.5L V6",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center, work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 26,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 33,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 4,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 5,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts must be replaced. Final torque is 33 ft-lbs plus 180 degrees total rotation.",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Start from center, work outward in sequence",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 89,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 18,
+          "unit": "ft-lbs"
+        }
+      ],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Two-stage tightening procedure required",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Start from center, work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Anti-seize compound recommended",
+      "notes": "Apply anti-seize to prevent seizing in aluminum heads",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Criss-cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - aluminum oil pan threads can strip easily",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 89,
+      "torque_nm": 10,
+      "torque_sequence": "Start from center, work outward alternating sides",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque specification - do not overtighten to avoid gasket damage",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten caps in sequence 1-5, then side bolts",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 26,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace if removed. Cross-bolted main cap design.",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten both bolts alternately in stages",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - must be replaced. Final torque is 15 ft-lbs plus 90 degrees.",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 11,
+      "torque_nm": 15,
+      "torque_sequence": "Hand tighten then torque to specification",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "14mm",
+      "lubrication": "Anti-seize on threads (sparingly)",
+      "notes": "Do not over-torque. Use thin coat of anti-seize on threads.",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 59,
+      "torque_nm": 80,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 37,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 59,
+          "unit": "ft-lbs"
+        }
+      ],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker compound",
+      "notes": "Use thread locker. Two-stage tightening required.",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Start from center, work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt lengths used - ensure correct bolt placement",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 150,
+      "torque_nm": 203,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Re-torque after 50-100 miles when installing new wheels",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 148,
+      "torque_nm": 200,
+      "torque_sequence": "Alternating pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Thread locker compound",
+      "notes": "Critical safety component - use thread locker and verify torque",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Brake caliper grease on pin",
+      "notes": "Use proper brake caliper grease on slide pins",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace crush washers/seals when disconnecting",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 41,
+      "torque_nm": 55,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker compound",
+      "notes": "Critical suspension component - verify torque and use thread locker",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 59,
+      "torque_nm": 80,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin after torquing. Alignment required after replacement.",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 129,
+      "torque_nm": 175,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Torque with vehicle at ride height or preload bushings",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut rod while torquing to prevent damage",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 41,
+      "torque_nm": 55,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Thread locker compound",
+      "notes": "Hold ball joint stud while torquing nut",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 85,
+      "torque_nm": 115,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker compound",
+      "notes": "Critical component - use thread locker and verify torque",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 258,
+      "torque_nm": 350,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. Very high torque specification - use appropriate tools.",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 106,
+      "torque_nm": 12,
+      "torque_sequence": "Criss-cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque - aluminum pan can crack if overtightened",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 19,
+      "torque_nm": 26,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug gasket/washer when servicing",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 76,
+      "torque_nm": 103,
+      "torque_sequence": "Opposite pairs alternately",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Thread locker compound",
+      "notes": "Mark driveshaft position before removal for proper balance",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker compound",
+      "notes": "Multiple bolt lengths used - ensure correct placement",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 21,
+      "torque_nm": 28,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M15x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug gasket at each oil change",
+      "vehicle": "2015-2023 Ford Mustang 5.0L V8 Coyote",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "5.0L V8 Coyote",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Center outward in spiral pattern per Ford service manual sequence",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 44,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - replace with new bolts. Critical sequence must be followed. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Center outward pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten in 2-3 passes. Check for vacuum leaks after installation.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "Center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Allow engine to cool before service. Apply anti-seize to prevent future seizure.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Cross pattern, center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "Do not overtighten - aluminum oil pan can crack. Use new gasket.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Center outward pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque specification - easy to strip aluminum threads. Replace gasket.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Follow Ford crankcase sequence",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 37,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.75",
+      "lubrication": "Light engine oil on threads and bearing surfaces",
+      "notes": "TTY bolts - must replace. Check bearing clearances before assembly. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Each rod cap individually",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 26,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M10x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - must replace. Check bearing clearances. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 11,
+      "torque_nm": 15,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.25",
+      "lubrication": "Anti-seize on threads (avoid electrode area)",
+      "notes": "Do not overtighten - aluminum cylinder head. Use specified gap of 0.028-0.031 inches.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 59,
+      "torque_nm": 80,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Medium strength threadlocker",
+      "notes": "Use crankshaft holding tool. Apply threadlocker to prevent loosening.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Various lengths - follow pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt lengths used - note location during removal. Use new gasket/sealant.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 150,
+      "torque_nm": 203,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50-100 miles. Check wheel bolt pattern and seat type.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 148,
+      "torque_nm": 200,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Critical safety component - verify torque. Use threadlocker if specified by Ford.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Brake caliper grease on pin and boot",
+      "notes": "Clean pins thoroughly. Replace boots if damaged. Verify slide operation.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new crush washers/sealing washers. Do not overtighten - may damage sealing surfaces.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 46,
+      "torque_nm": 63,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure proper ball joint seating before tightening. Replace if threads are damaged.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 59,
+      "torque_nm": 80,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new cotter pin. Do not back off to align cotter pin hole - only tighten further.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 148,
+      "torque_nm": 200,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Vehicle must be at ride height when final tightening. Critical suspension component.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 46,
+      "torque_nm": 63,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut shaft with hex bit while tightening nut. Replace mount if rubber is deteriorated.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 46,
+      "torque_nm": 63,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball stud with hex key while tightening nut. Replace if ball joint is loose.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 98,
+      "torque_nm": 133,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Medium strength threadlocker",
+      "notes": "Apply threadlocker to threads. Critical bearing mounting - verify torque specification.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 258,
+      "torque_nm": 350,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut - replace with new. Stake or use new cotter pin as specified.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Cross pattern, inside out",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Aluminum pan - do not overtighten. Replace gasket or use RTV as specified.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 21,
+      "torque_nm": 28,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean threads, new sealing washer",
+      "notes": "Replace sealing washer each service. Clean drain plug and pan threads.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "Cross pattern on 4-bolt, alternating on straps",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Medium strength threadlocker",
+      "notes": "Mark driveshaft orientation before removal. Apply threadlocker to prevent loosening. Verify with OEM service manual for this specific application.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Various bolt lengths - note positions during removal. Ensure proper engine-to-transmission alignment.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 21,
+      "torque_nm": 28,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean threads, light oil on gasket",
+      "notes": "Replace drain plug gasket each oil change. Do not overtighten aluminum oil pan.",
+      "vehicle": "2015-2023 Ford Mustang 2.3L I4 EcoBoost",
+      "year_range": [
+        2015,
+        2023
+      ],
+      "make": "Ford",
+      "model": "Mustang",
+      "engine": "2.3L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center and work outward in a crisscross pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 44,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts must be replaced. Never reuse. Final torque achieved through angle tightening.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Center to outside in specified pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry",
+      "notes": "Tighten in two passes - first to 7 ft-lbs, then final to 15 ft-lbs",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Anti-seize compound recommended",
+      "notes": "Allow engine to cool before service. Use anti-seize on threads.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Crisscross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry",
+      "notes": "Do not overtighten - aluminum oil pan threads can strip easily",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 10,
+      "torque_nm": 14,
+      "torque_sequence": "Center outward in specified sequence",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry",
+      "notes": "Replace valve cover gasket. Tighten gradually to avoid warping cover.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Numbered sequence per service manual",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 37,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace if removed. Critical engine component requiring precise torque.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Both bolts alternately",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 26,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - must replace if removed. Critical for bearing crush.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 11,
+      "torque_nm": 15,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize on threads (small amount)",
+      "notes": "Do not overtighten. Thread by hand first, then torque wrench.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 59,
+      "torque_nm": 80,
+      "torque_sequence": "Crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (blue Loctite)",
+      "notes": "Use flywheel holding tool. Apply thread locker before installation.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Various bolt lengths - follow pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry",
+      "notes": "Different length bolts in different positions - note location during removal.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 100,
+      "torque_nm": 136,
+      "torque_sequence": "Star pattern (crisscross)",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Retorque after 50-100 miles. Check regularly for proper torque.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 148,
+      "torque_nm": 200,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Thread locker (blue Loctite)",
+      "notes": "Critical safety component. Use thread locker on clean threads.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "High-temperature brake grease on pin",
+      "notes": "Lubricate pin with brake grease, not threads. Pin must slide freely.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry",
+      "notes": "Replace banjo washers. Bleed brakes after installation.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 46,
+      "torque_nm": 63,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry",
+      "notes": "Ensure proper seating of ball joint taper before tightening.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 35,
+      "torque_nm": 48,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry",
+      "notes": "Install new cotter pin. May need to tighten slightly more to align cotter pin hole.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 148,
+      "torque_nm": 200,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry",
+      "notes": "Tighten with suspension at ride height or slight compression.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 35,
+      "torque_nm": 48,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry",
+      "notes": "Hold strut rod from turning while tightening nut.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 41,
+      "torque_nm": 55,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Hold ball stud with hex key while tightening nut.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 85,
+      "torque_nm": 115,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (blue Loctite)",
+      "notes": "Use thread locker. Tighten in star pattern to prevent hub distortion.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 258,
+      "torque_nm": 350,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M30x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "TTY nut - replace if removed. Stake or use new locking tab after installation.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Crisscross pattern from center out",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry",
+      "notes": "Do not overtighten - pan can distort. Replace pan gasket.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 21,
+      "torque_nm": 28,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Replace drain plug gasket/washer. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 17,
+      "torque_nm": 23,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Thread locker (blue Loctite)",
+      "notes": "FWD vehicle - specification for rear driveline if AWD equipped. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 35,
+      "torque_nm": 48,
+      "torque_sequence": "Crisscross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (blue Loctite)",
+      "notes": "Various bolt lengths - note positions during removal. Use thread locker.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 21,
+      "torque_nm": 28,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Replace drain plug gasket. Do not overtighten - aluminum oil pan threads.",
+      "vehicle": "2017-2022 Ford Escape 1.5L I4 EcoBoost",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "Escape",
+      "engine": "1.5L I4 EcoBoost",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center and work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 65,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 85,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 95,
+          "unit": "degrees"
+        },
+        {
+          "stage": 4,
+          "value": 95,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts must be replaced. Final torque achieved through angle method. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 28,
+      "torque_nm": 38,
+      "torque_sequence": "Center outward in cross pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 28,
+          "unit": "ft-lbs"
+        }
+      ],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 28,
+      "torque_nm": 38,
+      "torque_sequence": "Center outward pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Anti-seize compound",
+      "notes": "Use high-temperature anti-seize. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 10,
+      "torque_nm": 14,
+      "torque_sequence": "Cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "Do not over-torque aluminum oil pan threads. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 8,
+      "torque_nm": 11,
+      "torque_sequence": "Center outward in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Center caps first, then outer caps",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 55,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M14x2.0",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Both bolts alternately",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 30,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M12x1.75",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 30,
+      "torque_nm": 41,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "14mm x 1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Do not over-torque. Use thin coating of anti-seize. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 69,
+      "torque_nm": 94,
+      "torque_sequence": "Star pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 37,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 69,
+          "unit": "ft-lbs"
+        }
+      ],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker medium strength",
+      "notes": "Use thread locker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Pattern varies by bolt location",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Different length bolts for different positions. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 165,
+      "torque_nm": 224,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Re-torque after 50-100 miles. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 148,
+      "torque_nm": 201,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Thread locker medium strength",
+      "notes": "Critical safety component. Use thread locker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 27,
+      "torque_nm": 37,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Brake caliper grease on pins",
+      "notes": "Use proper brake caliper grease on slide pins. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 22,
+      "torque_nm": 30,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace copper washers. Do not over-torque. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 85,
+      "torque_nm": 115,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker medium strength",
+      "notes": "Critical safety component. Use thread locker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 85,
+      "torque_nm": 115,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. Check alignment after installation. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 258,
+      "torque_nm": 350,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M18x2.5",
+      "lubrication": "Thread locker medium strength",
+      "notes": "Torque with vehicle at ride height. Critical safety component. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 30,
+      "torque_nm": 41,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker medium strength",
+      "notes": "Hold strut shaft when tightening. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Thread locker medium strength",
+      "notes": "Do not over-torque rubber bushings. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 148,
+      "torque_nm": 201,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker medium strength",
+      "notes": "Critical safety component. Use thread locker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 405,
+      "torque_nm": 549,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M30x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut. Replace after removal. Very high torque - use proper tools. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 19,
+      "torque_nm": 26,
+      "torque_sequence": "Cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not over-torque. Replace pan gasket. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 19,
+      "torque_nm": 26,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace O-ring or gasket. Do not over-torque. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "Cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Thread locker medium strength",
+      "notes": "Mark driveshaft position before removal. Use thread locker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker medium strength",
+      "notes": "Various bolt lengths - verify correct position. Use thread locker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 19,
+      "torque_nm": 26,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug gasket. Do not over-torque aluminum oil pan threads. Verify with OEM service manual for this specific application.",
+      "vehicle": "2017-2022 Ford F-250 6.7L V8 Power Stroke",
+      "year_range": [
+        2017,
+        2022
+      ],
+      "make": "Ford",
+      "model": "F-250",
+      "engine": "6.7L V8 Power Stroke",
+      "verified": false
+    }
+  ]
+}

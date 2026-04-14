@@ -1,0 +1,1224 @@
+{
+  "specs": [
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Center outward in spiral pattern, follow GM specified sequence",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 70,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts must be replaced. Never reuse. Final torque achieved through angle specification.",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Center outward in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry",
+      "notes": "Tighten in sequence to prevent warping",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Anti-seize compound",
+      "notes": "Use anti-seize to prevent seizure due to heat cycling",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Center outward in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "Do not overtighten to prevent oil pan deformation",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 106,
+      "torque_nm": 12,
+      "torque_sequence": "Center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry",
+      "notes": "Specification is 106 inch-lbs (9 ft-lbs). Do not overtighten to prevent gasket damage",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten caps in sequence 1-2-3-4-5",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 80,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x2.0",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Verify with OEM service manual for this specific application.",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten both bolts evenly",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 85,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Critical engine component - verify torque procedure",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 11,
+      "torque_nm": 15,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize on threads (light coat)",
+      "notes": "Do not overtighten. Hand tighten then 1/2 turn with wrench if new plug",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 74,
+      "torque_nm": 100,
+      "torque_sequence": "Star pattern in 3 steps",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Use thread locker to prevent loosening from vibration",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry",
+      "notes": "Various bolt lengths used - ensure proper bolt placement",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 140,
+      "torque_nm": 190,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Retorque after 50-100 miles when installing new wheels",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 148,
+      "torque_nm": 200,
+      "torque_sequence": "Tighten evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M16x2.0",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Critical safety component - use proper thread locker",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "High temperature brake grease on pin",
+      "notes": "Lubricate pins with high-temp brake grease for proper operation",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 30,
+      "torque_nm": 41,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry",
+      "notes": "Replace copper washers when reassembling",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 37,
+      "torque_nm": 50,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry",
+      "notes": "Ensure ball joint stud is properly seated before tightening",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 44,
+      "torque_nm": 60,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry",
+      "notes": "Install new cotter pin after torquing. May need to tighten slightly more to align cotter pin hole",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 111,
+      "torque_nm": 150,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M16x2.0",
+      "lubrication": "Clean and dry",
+      "notes": "Torque with vehicle at ride height or with suspension loaded",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 44,
+      "torque_nm": 60,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry",
+      "notes": "Hold strut shaft with hex key while tightening nut",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 17,
+      "torque_nm": 23,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Do not overtighten to prevent binding of ball joint",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 133,
+      "torque_nm": 180,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Clean hub surface thoroughly before installation",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 177,
+      "torque_nm": 240,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Install new cotter pin. Stake nut if applicable to prevent loosening",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 12,
+      "torque_nm": 16,
+      "torque_sequence": "Center outward in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry",
+      "notes": "Do not overtighten to prevent pan warpage. Tighten gradually",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry",
+      "notes": "Replace drain plug gasket/O-ring when servicing",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Cross pattern for U-joint straps",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Mark driveshaft position before removal for proper balance",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 37,
+      "torque_nm": 50,
+      "torque_sequence": "Star pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Various bolt lengths used - ensure proper bolt placement",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Individual tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Light oil on O-ring",
+      "notes": "Replace O-ring or gasket with each oil change",
+      "vehicle": "2014-2023 GMC Sierra 1500 5.3L V8",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "5.3L V8",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center, work outward in spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 22,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        },
+        {
+          "stage": 3,
+          "value": 70,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - replace with new bolts only. Follow exact sequence pattern.",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Center outward in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten in multiple passes, final torque in sequence",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Center outward pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Anti-seize compound recommended",
+      "notes": "Check for warpage before installation. Use anti-seize on threads.",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - aluminum oil pan threads strip easily",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 106,
+      "torque_nm": 12,
+      "torque_sequence": "Center outward in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque spec - use torque wrench calibrated for low values",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten caps in sequence 1-5, center outward",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 80,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace only. Verify bearing clearances before final torque.",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten both bolts evenly",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 85,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M10x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace only. Check bearing clearances before assembly.",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "14mm x 1.25",
+      "lubrication": "Anti-seize on threads",
+      "notes": "Do not overtighten. Use anti-seize on aluminum heads.",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 74,
+      "torque_nm": 100,
+      "torque_sequence": "Star pattern, opposite bolts",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Use thread locker. Tighten in multiple passes to final torque.",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Pattern specified in service manual",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt lengths - ensure correct bolt placement",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 140,
+      "torque_nm": 190,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Retorque after 50-100 miles of driving",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 122,
+      "torque_nm": 165,
+      "torque_sequence": "Evenly, both bolts",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Use thread locker. Critical safety component.",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "High-temp brake grease on pin",
+      "notes": "Lubricate slide pin with brake-specific grease only",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 30,
+      "torque_nm": 41,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace sealing washers. Do not overtighten.",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 37,
+      "torque_nm": 50,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Ensure proper ball joint seating before tightening",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 44,
+      "torque_nm": 60,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. Do not back off to align pin hole.",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 145,
+      "torque_nm": 197,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M16x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten with vehicle at normal ride height",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut shaft to prevent spinning during tightening",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 17,
+      "torque_nm": 23,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten until bushing just contacts washer - do not compress",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 133,
+      "torque_nm": 180,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Use thread locker. Tighten in star pattern.",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 177,
+      "torque_nm": 240,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M20x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin or replace if damaged",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 12,
+      "torque_nm": 16,
+      "torque_sequence": "Cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - aluminum pan threads strip easily",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug washer/gasket",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 15,
+      "torque_nm": 20,
+      "torque_sequence": "Cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Thread locker (medium strength)",
+      "notes": "Mark driveshaft position before removal for proper balance",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 37,
+      "torque_nm": 50,
+      "torque_sequence": "Cross pattern, multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt lengths - ensure correct bolt placement",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug gasket. Do not overtighten aluminum oil pan.",
+      "vehicle": "2019-2023 GMC Sierra 1500 6.2L V8",
+      "year_range": [
+        2019,
+        2023
+      ],
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "engine": "6.2L V8",
+      "verified": false
+    }
+  ]
+}

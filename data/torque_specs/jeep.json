@@ -1,0 +1,1849 @@
+{
+  "specs": [
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center bolts and work outward in a spiral pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 25,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 45,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts must be replaced. Do not reuse. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Tighten from center outward in a spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Tighten from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Anti-seize compound recommended",
+      "notes": "Use anti-seize on studs to prevent galling. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Tighten in a spiral pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten aluminum oil pan. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Tighten from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace gasket. Do not overtighten. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten main caps in sequence 1-5",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 25,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Check main bearing clearances. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten each rod bearing cap evenly",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 20,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts must be replaced. Check rod bearing clearances. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 20,
+      "torque_nm": 27,
+      "torque_sequence": "Tighten each plug individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "14mm x 1.25",
+      "lubrication": "Light anti-seize on threads",
+      "notes": "Use thin coat of anti-seize. Do not overtighten aluminum heads. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 70,
+      "torque_nm": 95,
+      "torque_sequence": "Tighten in a star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker compound",
+      "notes": "Use medium strength thread locker. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Tighten evenly in a cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace gaskets and seals. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 95,
+      "torque_nm": 129,
+      "torque_sequence": "Tighten in a star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "1/2-20",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always retorque after 25-50 miles. Check periodically. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 70,
+      "torque_nm": 95,
+      "torque_sequence": "Tighten both bolts evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker compound",
+      "notes": "Use medium strength thread locker. Critical safety component. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 26,
+      "torque_nm": 35,
+      "torque_sequence": "Tighten individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Special brake grease on slide pins",
+      "notes": "Use only brake-specific grease. Check slide pin movement. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 35,
+      "torque_nm": 47,
+      "torque_sequence": "Tighten individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always replace copper washers. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 60,
+      "torque_nm": 81,
+      "torque_sequence": "Tighten nut while holding bolt head",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Critical suspension component. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 45,
+      "torque_nm": 61,
+      "torque_sequence": "Tighten individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. Check alignment after replacement. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 130,
+      "torque_nm": 176,
+      "torque_sequence": "Tighten with suspension at ride height",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M16x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Must torque at ride height to prevent bushing damage. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Hold strut shaft while tightening nut",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use strut shaft holding tool. Check alignment after service. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 75,
+      "torque_nm": 102,
+      "torque_sequence": "Hold ball joint stud while tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold stud with hex key to prevent spinning. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 95,
+      "torque_nm": 129,
+      "torque_sequence": "Tighten in a star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Thread locker compound",
+      "notes": "Use medium strength thread locker. Critical component. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 177,
+      "torque_nm": 240,
+      "torque_sequence": "Tighten individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M24x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin or stake nut. Vehicle must be on ground for final torque. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 9,
+      "torque_nm": 12,
+      "torque_sequence": "Tighten in a spiral pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten aluminum pan. Replace gasket or RTV. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "Tighten individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean threads, replace O-ring",
+      "notes": "Replace O-ring seal. Do not overtighten aluminum case. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 14,
+      "torque_nm": 19,
+      "torque_sequence": "Tighten U-joint straps evenly",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "5/16-18",
+      "lubrication": "Thread locker compound",
+      "notes": "Use medium strength thread locker. Mark driveshaft position before removal. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 70,
+      "torque_nm": 95,
+      "torque_sequence": "Tighten in a star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure proper alignment during installation. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "Tighten individually",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean threads, replace gasket",
+      "notes": "Replace crush washer. Do not overtighten aluminum oil pan. Verify with OEM service manual for this specific application.",
+      "vehicle": "2012-2023 Jeep Wrangler 3.6L V6 Pentastar",
+      "year_range": [
+        2012,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Wrangler",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Center outward in crossing pattern, 4 passes total",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 25,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 40,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 40,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 4,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - replace with new bolts. Do not reuse. Follow exact sequence and stages.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 105,
+      "torque_nm": 12,
+      "torque_sequence": "Center outward in crossing pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use crossing pattern starting from center bolts",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 25,
+      "torque_sequence": "Center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Anti-seize compound recommended",
+      "notes": "Apply anti-seize to prevent seizure in aluminum head",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 105,
+      "torque_nm": 12,
+      "torque_sequence": "Crossing pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not over-tighten - aluminum oil pan threads can strip easily",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 70,
+      "torque_nm": 8,
+      "torque_sequence": "Center outward in crossing pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Low torque spec - do not over-tighten to avoid gasket damage",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Caps 1-5 in order, both bolts per cap before moving to next",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 20,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new bolts. Critical engine component.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Both bolts alternately in small increments",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - replace with new bolts. Critical rotating assembly component.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 13,
+      "torque_nm": 18,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "14mm",
+      "lubrication": "Anti-seize on threads (small amount)",
+      "notes": "Do not over-tighten. Use thin layer of anti-seize on aluminum heads.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 70,
+      "torque_nm": 95,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Medium strength threadlocker",
+      "notes": "Use threadlocker. Flywheel must be held during installation.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 106,
+      "torque_nm": 12,
+      "torque_sequence": "Various lengths - follow service manual pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt lengths used - ensure correct bolt placement",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 110,
+      "torque_nm": 150,
+      "torque_sequence": "Star pattern in 2-3 passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Final torque with vehicle on ground. Check after 50-100 miles.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 125,
+      "torque_nm": 169,
+      "torque_sequence": "Alternating pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Critical safety component - verify torque specification",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 32,
+      "torque_nm": 44,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Brake caliper grease on pins",
+      "notes": "Use proper brake caliper grease on slide pins",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 23,
+      "torque_nm": 31,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Always use new copper washers. Do not over-tighten.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 60,
+      "torque_nm": 81,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure proper seating before final torque",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 63,
+      "torque_nm": 85,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install new cotter pin. May need to tighten slightly for pin alignment.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 160,
+      "torque_nm": 217,
+      "torque_sequence": "Vehicle at ride height",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Must be torqued with vehicle at normal ride height",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Hold strut shaft while tightening",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut shaft with hex key to prevent rotation",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 65,
+      "torque_nm": 88,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball joint stud to prevent spinning",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 95,
+      "torque_nm": 129,
+      "torque_sequence": "Star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Verify with OEM service manual for this specific application",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 157,
+      "torque_nm": 213,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": false,
+      "thread_size": "M20x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Use new nut. Stake or use new cotter pin as applicable.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 105,
+      "torque_nm": 12,
+      "torque_sequence": "Center outward in crossing pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not over-tighten - can distort pan and cause leaks",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 14,
+      "torque_nm": 19,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug washer. Do not over-tighten.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "Alternating pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Medium strength threadlocker",
+      "notes": "Use threadlocker. Mark driveshaft position before removal.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 50,
+      "torque_nm": 68,
+      "torque_sequence": "Star pattern in multiple passes",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Multiple bolt lengths - ensure proper bolt placement",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 20,
+      "torque_nm": 27,
+      "torque_sequence": "N/A",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace drain plug gasket. Do not over-tighten aluminum oil pan.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 3.6L V6 Pentastar",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "3.6L V6 Pentastar",
+      "verified": false
+    },
+    {
+      "component": "Cylinder Head Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Start from center bolts and work outward in a cross pattern",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 25,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 40,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 40,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 4,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "TTY bolts - replace all bolts. Final angle torque critical for proper clamping force.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Intake Manifold Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 105,
+      "torque_nm": 142,
+      "torque_sequence": "Start from center and work outward in spiral pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten in 2-3 steps to final torque value",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Exhaust Manifold Bolt/Stud",
+      "category": "engine",
+      "torque_ft_lbs": 18,
+      "torque_nm": 24,
+      "torque_sequence": "Start from center bolts and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Anti-seize compound recommended",
+      "notes": "Use high-temperature anti-seize on threads to prevent seizing",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Oil Pan Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 11,
+      "torque_nm": 15,
+      "torque_sequence": "Tighten in cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Light engine oil on threads",
+      "notes": "Do not overtighten - aluminum pan threads strip easily",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Valve Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 70,
+      "torque_nm": 95,
+      "torque_sequence": "Start from center bolts and work outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten gradually in 2-3 steps to avoid warping cover",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Main Bearing Cap Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "Tighten caps in sequence from center main outward",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 25,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 3,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M11x1.5",
+      "lubrication": "Light engine oil on threads and under bolt head",
+      "notes": "TTY bolts - replace if removed. Check crankshaft end play after installation.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Connecting Rod Bolt",
+      "category": "engine",
+      "torque_ft_lbs": null,
+      "torque_nm": null,
+      "torque_sequence": "",
+      "stages": [
+        {
+          "stage": 1,
+          "value": 15,
+          "unit": "ft-lbs"
+        },
+        {
+          "stage": 2,
+          "value": 90,
+          "unit": "degrees"
+        }
+      ],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M9x1.25",
+      "lubrication": "Light engine oil on threads",
+      "notes": "TTY bolts - always replace. Verify bearing clearances before final torque.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Spark Plug",
+      "category": "engine",
+      "torque_ft_lbs": 20,
+      "torque_nm": 27,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.25",
+      "lubrication": "Anti-seize compound on threads",
+      "notes": "Thread plugs in by hand first. Use anti-seize to prevent thread damage.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Flywheel/Flexplate Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 70,
+      "torque_nm": 95,
+      "torque_sequence": "Tighten in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads with thread locker",
+      "notes": "Use medium-strength thread locker. Hold crankshaft while tightening.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Timing Cover Bolt",
+      "category": "engine",
+      "torque_ft_lbs": 21,
+      "torque_nm": 28,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M8x1.25",
+      "lubrication": "Clean and dry threads",
+      "notes": "Various bolt lengths - ensure correct bolt placement",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Lug Nut",
+      "category": "general",
+      "torque_ft_lbs": 110,
+      "torque_nm": 149,
+      "torque_sequence": "Tighten in star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Re-torque after 50-100 miles. Check for proper wheel seating.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Bracket Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 125,
+      "torque_nm": 169,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads with thread locker",
+      "notes": "Use medium-strength thread locker. Critical safety component.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Brake Caliper Slide Pin",
+      "category": "brakes",
+      "torque_ft_lbs": 32,
+      "torque_nm": 43,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "High-temperature brake grease on pin only",
+      "notes": "Clean pin and apply proper brake grease before installation",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Brake Hose Banjo Bolt",
+      "category": "brakes",
+      "torque_ft_lbs": 23,
+      "torque_nm": 31,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Replace copper washers. Do not overtighten - can damage sealing washers.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Ball Joint Pinch Bolt/Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 60,
+      "torque_nm": 81,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Ensure ball joint stud is properly seated before tightening",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Tie Rod End Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 45,
+      "torque_nm": 61,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Install cotter pin after torquing. May need to tighten further to align pin hole.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Lower Control Arm Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 130,
+      "torque_nm": 176,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M16x2.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Tighten with vehicle at normal ride height for proper bushing alignment",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Upper Strut Mount Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold strut rod with hex key while tightening nut",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Sway Bar End Link Nut",
+      "category": "suspension",
+      "torque_ft_lbs": 75,
+      "torque_nm": 102,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "Hold ball stud with hex key while tightening nut",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Wheel Bearing/Hub Bolt",
+      "category": "suspension",
+      "torque_ft_lbs": 65,
+      "torque_nm": 88,
+      "torque_sequence": "Tighten in star pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads with thread locker",
+      "notes": "Use medium-strength thread locker. Tighten gradually in star pattern.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Axle Nut",
+      "category": "drivetrain",
+      "torque_ft_lbs": 185,
+      "torque_nm": 251,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": true,
+      "reusable": false,
+      "thread_size": "M20x1.5",
+      "lubrication": "Clean and dry threads",
+      "notes": "One-time use nut. Stake collar after installation to prevent loosening.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Transmission Pan Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 14,
+      "torque_nm": 19,
+      "torque_sequence": "Tighten in cross pattern from center outward",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M6x1.0",
+      "lubrication": "Clean and dry threads",
+      "notes": "Do not overtighten - can warp pan or strip threads",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Transmission Drain Plug",
+      "category": "drivetrain",
+      "torque_ft_lbs": 14,
+      "torque_nm": 19,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean threads and replace O-ring",
+      "notes": "Replace drain plug O-ring with each service",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Driveshaft Bolt/Strap",
+      "category": "drivetrain",
+      "torque_ft_lbs": 80,
+      "torque_nm": 108,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M10x1.5",
+      "lubrication": "Clean and dry threads with thread locker",
+      "notes": "Use medium-strength thread locker. Mark driveshaft position before removal.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Bellhousing Bolt",
+      "category": "drivetrain",
+      "torque_ft_lbs": 50,
+      "torque_nm": 68,
+      "torque_sequence": "Tighten in cross pattern",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M12x1.75",
+      "lubrication": "Clean and dry threads",
+      "notes": "Various bolt lengths - ensure correct bolt placement in proper holes",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    },
+    {
+      "component": "Oil Drain Plug",
+      "category": "engine",
+      "torque_ft_lbs": 25,
+      "torque_nm": 34,
+      "torque_sequence": "",
+      "stages": [],
+      "tty": false,
+      "reusable": true,
+      "thread_size": "M14x1.5",
+      "lubrication": "Clean threads and replace gasket",
+      "notes": "Replace drain plug gasket with each oil change. Do not overtighten.",
+      "vehicle": "2014-2023 Jeep Grand Cherokee 5.7L V8 Hemi",
+      "year_range": [
+        2014,
+        2023
+      ],
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "engine": "5.7L V8 Hemi",
+      "verified": false
+    }
+  ]
+}

@@ -22,10 +22,11 @@ async def diagnose(request: DiagnoseRequest):
         if request.use_rag:
             try:
                 pipeline = get_rag_pipeline()
-                rag_context = pipeline.build_context_string(request.query)
-                if rag_context:
-                    results = pipeline.retrieve(request.query)
-                    sources = list({r["source"] for r in results})
+                if pipeline is not None:
+                    rag_context = pipeline.build_context_string(request.query)
+                    if rag_context:
+                        results = pipeline.retrieve(request.query)
+                        sources = list({r["source"] for r in results})
             except Exception:
                 # RAG is optional — continue without it if ChromaDB isn't ready
                 pass

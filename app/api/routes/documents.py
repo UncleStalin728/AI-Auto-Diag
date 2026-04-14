@@ -39,6 +39,8 @@ async def upload_document(file: UploadFile = File(...)):
     # Ingest into RAG pipeline
     try:
         pipeline = get_rag_pipeline()
+        if pipeline is None:
+            raise HTTPException(status_code=503, detail="RAG pipeline unavailable — ChromaDB not installed")
         chunks_created = pipeline.ingest_pdf(
             file_path,
             metadata={"original_filename": file.filename},
@@ -60,6 +62,8 @@ async def document_stats():
     """Get statistics about indexed documents."""
     try:
         pipeline = get_rag_pipeline()
+        if pipeline is None:
+            return {"total_chunks": 0, "collection_name": "N/A", "note": "ChromaDB not installed"}
         return pipeline.get_stats()
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to get stats: {str(e)}")
