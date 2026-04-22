@@ -67,6 +67,25 @@ class RAGContext(BaseModel):
     relevance_score: float
 
 
+# ── VIN Decoding ─────────────────────────────────────────
+
+class VINDecodeResponse(BaseModel):
+    """Response from VIN decoding."""
+
+    vin: str = Field(..., description="The 17-character VIN")
+    year: Optional[int] = Field(None, description="Model year")
+    make: Optional[str] = Field(None, description="Vehicle manufacturer")
+    model: Optional[str] = Field(None, description="Vehicle model")
+    engine: Optional[str] = Field(None, description="Engine description (e.g., 2.4L I4)")
+    displacement_l: Optional[float] = Field(None, description="Engine displacement in liters")
+    cylinders: Optional[int] = Field(None, description="Number of cylinders")
+    drive_type: Optional[str] = Field(None, description="Drive type (FWD, RWD, AWD, 4WD)")
+    transmission: Optional[str] = Field(None, description="Transmission type")
+    torque_specs_available: bool = Field(False, description="Whether torque specs exist for this vehicle")
+    success: bool = Field(..., description="Whether VIN decode was successful")
+    error: Optional[str] = Field(None, description="Error message if decode failed")
+
+
 # ── Torque Specs ─────────────────────────────────────────
 
 class TorqueStage(BaseModel):
